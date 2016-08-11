@@ -1,0 +1,83 @@
+c:\users\mschuee\documents\visual studio 2013\Projects\Atlas.Local\Atlas.Muscle\obj\Debug\Atlas.Muscle.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Atlas.Muscle.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Atlas.Muscle.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Atlas.Brain.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Fitbit.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Apis.Auth.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Apis.Core.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Apis.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Google.Maps.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\RestSharp.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\SpotifyAPI.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Swiss.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\WolframAlpha.NET.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\YelpSharp.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Atlas.Brain.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Swiss.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\obj\Debug\Atlas.Muscle.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\obj\Debug\Atlas.Muscle.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Atlas.Muscle.dll.config
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Excel.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\Excel.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Muscle\bin\Debug\encog-core-cs.dll
+C:\Atlas\Atlas.Muscle\obj\Debug\Atlas.Muscle.csprojResolveAssemblyReference.cache
+C:\Atlas\Atlas.Muscle\obj\Debug\Atlas.Muscle.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Atlas.Muscle.dll.config
+C:\Atlas\Atlas.Muscle\bin\Debug\Atlas.Muscle.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Atlas.Muscle.pdb
+C:\Atlas\Atlas.Muscle\bin\Debug\Swiss.dll
+C:\Atlas\Atlas.Muscle\obj\Debug\Atlas.Muscle.pdb
+C:\Atlas\Atlas.Muscle\bin\Debug\Fitbit.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Apis.Auth.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Apis.Core.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Apis.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Google.Maps.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\RestSharp.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\SpotifyAPI.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\WolframAlpha.NET.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\YelpSharp.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Atlas.Muscle.dll.config
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Atlas.Muscle.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Atlas.Muscle.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Atlas.Brain.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Fitbit.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Apis.Core.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Apis.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Google.Maps.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\RestSharp.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\SpotifyAPI.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\WolframAlpha.NET.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\YelpSharp.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\encog-core-cs.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Excel.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Atlas.Brain.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Swiss.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\bin\Debug\Excel.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\obj\Debug\Atlas.Muscle.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\obj\Debug\Atlas.Muscle.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Muscle\obj\Debug\Atlas.Muscle.pdb
+C:\Atlas\Atlas.Muscle\bin\Debug\RestSharp.xml
+C:\Atlas\Atlas.Muscle\bin\Debug\Swiss.API.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Forecast.io.45.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Swiss.API.pdb
+C:\Atlas\Atlas.Muscle\bin\Debug\Atlas.Environment.dll
+C:\Atlas\Atlas.Muscle\bin\Debug\Atlas.Environment.pdb
+C:\Atlas\Atlas.Muscle\bin\Debug\Newtonsoft.Json.dll

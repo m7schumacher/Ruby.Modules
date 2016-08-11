@@ -1,0 +1,4 @@
+open|0
+search|1
+exec|4
+batch|5

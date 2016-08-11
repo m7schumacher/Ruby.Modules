@@ -1,0 +1,59 @@
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\Atlas.Brain.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\Atlas.Brain.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\Swiss.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\obj\Debug\Atlas.Brain.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\obj\Debug\Atlas.Brain.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\Swiss.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\Excel.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\Excel.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\encog-core-cs.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\obj\Debug\Atlas.Brain.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Brain\bin\Debug\SpotifyAPI.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Atlas.Brain.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Atlas.Brain.pdb
+C:\Atlas\Atlas.Brain\bin\Debug\Newtonsoft.Json.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Swiss.dll
+C:\Atlas\Atlas.Brain\obj\Debug\Atlas.Brain.csprojResolveAssemblyReference.cache
+C:\Atlas\Atlas.Brain\obj\Debug\Atlas.Brain.dll
+C:\Atlas\Atlas.Brain\obj\Debug\Atlas.Brain.pdb
+C:\Atlas\Atlas.Brain\bin\Debug\SpotifyAPI.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\obj\Debug\Atlas.Brain.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\obj\Debug\Atlas.Brain.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\Atlas.Brain.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\Atlas.Brain.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\SpotifyAPI.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\encog-core-cs.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\Excel.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\Swiss.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\bin\Debug\Excel.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Brain\obj\Debug\Atlas.Brain.pdb
+C:\Atlas\Atlas.Brain\bin\Debug\RestSharp.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Newtonsoft.Json.xml
+C:\Atlas\Atlas.Brain\bin\Debug\RestSharp.xml
+C:\Atlas\Atlas.Brain\bin\Debug\Swiss.API.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Forecast.io.45.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Swiss.API.pdb
+C:\Atlas\Atlas.Brain\bin\Debug\Atlas.Environment.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Atlas.Muscle.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Microsoft.Kinect.dll
+C:\Atlas\Atlas.Brain\bin\Debug\stanford-parser.dll
+C:\Atlas\Atlas.Brain\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Google.Apis.Drive.v2.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Fitbit.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Google.Maps.dll
+C:\Atlas\Atlas.Brain\bin\Debug\YelpSharp.dll
+C:\Atlas\Atlas.Brain\bin\Debug\WolframAlpha.NET.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Google.Apis.dll
+C:\Atlas\Atlas.Brain\bin\Debug\IKVM.Runtime.dll
+C:\Atlas\Atlas.Brain\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Atlas\Atlas.Brain\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Google.Apis.Core.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Atlas.Environment.pdb
+C:\Atlas\Atlas.Brain\bin\Debug\Atlas.Muscle.pdb
+C:\Atlas\Atlas.Brain\bin\Debug\Ruby.Immune.dll
+C:\Atlas\Atlas.Brain\bin\Debug\Ruby.Immune.pdb

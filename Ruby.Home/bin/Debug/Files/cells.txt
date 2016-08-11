@@ -1,0 +1,64 @@
+0|0|exit x leave|-Terminate
+0|1|devenv code|C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+0|2|chrome internet browser|C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+0|3|notepad++ pad|C:\Program Files (x86)\Notepad++\notepad++.exe
+0|4|putty|C:\Users\mschuee\Downloads\putty.exe
+0|5|WinSCP|C:\Program Files (x86)\WinSCP\WinSCP.exe
+0|6|excel spreadsheet|C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+0|7|winword word|C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+0|8|rstudio|C:\Program Files\RStudio\bin\rstudio.exe
+0|10|facebook|http://facebook.com
+0|12|espn sports|http://espn.com
+0|13|POWERPNT powerpoint|C:\Program Files\Microsoft Office 15\Root\Office15\POWERPNT.EXE
+0|14|spotify_installer-1.0.3.101.gbfa97dfe-48|C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.3.101.gbfa97dfe-48.exe
+0|15|Spotify|C:\Users\mschuee\AppData\Roaming\Spotify\Spotify.exe
+0|16|notes googledrive class|http://drive.google.com
+0|19|winword|C:\Program Files\Microsoft Office 15\Root\Office15\WINWORD.EXE
+0|17|KMeans_Serial|c:\users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+0|18|FileConverter.vshost|c:\users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+0|21|office|C:\Program Files\Microsoft Office 15\Root\Office15\POWERPNT.EXE|C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE|C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+0|45|research|C:\Users\mschuee\Downloads\putty.exe|C:\Program Files (x86)\WinSCP\WinSCP.exe|C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+0|20|minimize show desktop|-MinimizeAll
+0|22|group|-Grouper
+0|26|find search google|-Google
+0|27|locate|-Locate
+0|56|KMeans_Serial|C:\Users\mschuee\Documents\Visual Studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+0|23|blackboard|https://bb.ndsu.nodak.edu
+0|24|school ndsu|https://ndsu.edu
+0|59|spotify_installer-1.0.4.90.g0b6df40b-9|C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.4.90.g0b6df40b-9.exe
+0|60|start-up|C:\Users\mschuee\AppData\Roaming\Spotify\Spotify.exe|C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe|http://google.com|http://drive.google.com|https://bb.ndsu.nodak.edu|C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+0|25|clean-house|-CleanHouse68|Attr_Mining_Real|C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Attr_Mining_Real\Debug\Attr_Mining_Real.exe
+0|69|WerFault|C:\WINDOWS\SysWOW64\WerFault.exe
+0|70|FileConverter.vshost|C:\Users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+0|71|KMeans_Serial|C:\Users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+0|46|Data_Generator.vshost|c:\users\mschuee\documents\visual studio 2013\Projects\Data_Generator\Data_Generator\bin\Debug\Data_Generator.vshost.exe
+0|51|FantasyFootball.cs.vshost|C:\Users\mschuee\Desktop\Fall Semester 2014\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.vshost.exe
+0|52|FantasyFootball.cs|C:\Users\mschuee\Desktop\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+0|53|VS2013.4|C:\Users\mschuee\Downloads\VS2013.4.exe
+0|54|msiexec|C:\WINDOWS\SysWOW64\msiexec.exe
+0|39|GUP|C:\Program Files (x86)\Notepad++\updater\gup.exe
+0|75|weather outside temperature rain snow|-Weather
+0|76|calendar event events docket date day time|-Calendar
+0|77|outlook brief|-Outlook
+0|78|morning|-GoodMorning
+0|11|grow dash|-Dash
+0|79|health steps footsteps heart calories calorie distance walked sleep|-Fitbit
+0|201|GoogleUpdate|C:\Users\mschuee\AppData\Local\Google\Update\GoogleUpdate.exe
+0|202|chromecast-app-1.5.1383.0.tmp|C:\Users\mschuee\AppData\Local\Temp\is-5MTDJ.tmp\chromecast-app-1.5.1383.0.tmp
+0|203|ChromecastApp chromecast cast|C:\Users\mschuee\AppData\Local\Google\Chromecast\ChromecastApp.exe
+0|204|VSIXInstaller|C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+0|225|cmd command prompt terminal|C:\WINDOWS\SysWOW64\cmd.exe
+0|150|hello hey|-Hello
+0|151|music tunes play resume|-Music
+0|152||-Map
+0|153|+ - * / sum plus minus times divided divide multiply compute|-Math
+0|154|nearest restaurant|-Yelper
+0|155|bible verse verses|-Bible
+0|156|score|-Scores
+0|166|define|-Dictionary
+0|167|fantasy news|-FantasyFootball
+0|168||-SmallTalk
+0|169||-Wolfram
+0|170|quiet dream learning start stop|-Settings
+0|200|pronounce say|-Pronouncer
+0|300|text phone|-Phone

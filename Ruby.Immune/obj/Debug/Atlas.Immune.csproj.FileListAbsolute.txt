@@ -1,0 +1,40 @@
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\obj\Debug\Atlas.Immune.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Atlas.Immune.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Atlas.Immune.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Atlas.Brain.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Swiss.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\encog-core-cs.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Excel.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Atlas.Brain.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Swiss.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\bin\Debug\Excel.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\obj\Debug\Atlas.Immune.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Local\Atlas.Immune\obj\Debug\Atlas.Immune.pdb
+C:\Atlas\Atlas.Immune\bin\Debug\Newtonsoft.Json.dll
+C:\Atlas\Atlas.Immune\obj\Debug\Atlas.Immune.csprojResolveAssemblyReference.cache
+C:\Atlas\Atlas.Immune\bin\Debug\SpotifyAPI.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\obj\Debug\Atlas.Immune.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\obj\Debug\Atlas.Immune.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Atlas.Immune.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Atlas.Immune.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Atlas.Brain.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\SpotifyAPI.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\encog-core-cs.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Excel.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Atlas.Brain.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Swiss.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\bin\Debug\Excel.pdb
+C:\Users\Mike\Source\Repos\Atlas.Modules\Atlas.Immune\obj\Debug\Atlas.Immune.pdb
+C:\Atlas\Atlas.Immune\bin\Debug\Swiss.API.dll
+C:\Atlas\Atlas.Immune\bin\Debug\Forecast.io.45.dll
+C:\Atlas\Atlas.Immune\bin\Debug\Swiss.API.pdb
+C:\Atlas\Atlas.Immune\bin\Debug\Atlas.Environment.dll
+C:\Atlas\Atlas.Immune\bin\Debug\Atlas.Environment.pdb
+C:\Atlas\Atlas.Immune\bin\Debug\Ruby.Immune.dll
+C:\Atlas\Atlas.Immune\bin\Debug\Ruby.Immune.pdb
+C:\Atlas\Atlas.Immune\obj\Debug\Ruby.Immune.dll
+C:\Atlas\Atlas.Immune\obj\Debug\Ruby.Immune.pdb

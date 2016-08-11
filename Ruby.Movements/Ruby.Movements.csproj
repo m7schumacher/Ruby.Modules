@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33721CD2-AFBB-4243-95A1-42D7E86BC77C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Ruby.Muscle</RootNamespace>
+    <AssemblyName>Ruby.Muscle</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Fitbit">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Fitbit.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Apis.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Apis.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Auth.PlatformServices">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Apis.Auth.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Calendar.v3">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Apis.Calendar.v3.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Core">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Apis.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.Drive.v2">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Apis.Drive.v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Apis.PlatformServices">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Apis.PlatformServices.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Maps">
+      <HintPath>..\Atlas\bin\Debug\DLLs\Google.Maps.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.8.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\packages\RestSharp.105.2.3\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="SpotifyAPI, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Atlas\bin\Debug\DLLs\SpotifyAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="Swiss, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\packages\Swiss.1.0.0.2\lib\net452\Swiss.dll</HintPath>
+    </Reference>
+    <Reference Include="Swiss.API">
+      <HintPath>..\..\DLLs\Swiss.API.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WolframAlpha.NET">
+      <HintPath>..\Atlas\bin\Debug\DLLs\WolframAlpha.NET.dll</HintPath>
+    </Reference>
+    <Reference Include="YelpSharp">
+      <HintPath>..\Atlas\bin\Debug\DLLs\YelpSharp.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MuscleGate.cs" />
+    <Compile Include="Muscles\Answer.cs" />
+    <Compile Include="Muscles\Answers\Calendar\Calendar.cs" />
+    <Compile Include="Muscles\Answers\Calendar\CalendarEvent.cs" />
+    <Compile Include="Muscles\Node.cs" />
+    <Compile Include="Muscles\Reflexes\Drive\Drive.cs" />
+    <Compile Include="Muscles\Reflexes\Drive\DriveDoc.cs" />
+    <Compile Include="Muscles\Reflexes\Drive\DriveElement.cs" />
+    <Compile Include="Muscles\Reflexes\Drive\DriveFolder.cs" />
+    <Compile Include="Muscles\Reflexes\Ears\Connector.cs" />
+    <Compile Include="Muscles\Reflexes\Ears\TCPListener.cs" />
+    <Compile Include="Muscles\Answers\Health\Fitbit.cs" />
+    <Compile Include="Muscles\Answers\Language\Dictionary.cs" />
+    <Compile Include="Muscles\Reflexes\Music\LocalAPI.cs" />
+    <Compile Include="Muscles\Reflexes\Music\WebAPI.cs" />
+    <Compile Include="Muscles\Reflexes\Pronouncer.cs" />
+    <Compile Include="Muscles\Answers\Maps\GMaps.cs" />
+    <Compile Include="Muscles\Answers\Maps\Yelper.cs" />
+    <Compile Include="Muscles\Reflexes\Math\Calculator.cs" />
+    <Compile Include="Muscles\Reflexes\Math\Symbol.cs" />
+    <Compile Include="Muscles\Reflexes\Music\Spotify.cs" />
+    <Compile Include="Muscles\Answers\News\FantasyFootball.cs" />
+    <Compile Include="Muscles\Answers\News\News.cs" />
+    <Compile Include="Muscles\Answers\Religion\Bible.cs" />
+    <Compile Include="Muscles\Answers\Search\Googler.cs" />
+    <Compile Include="Muscles\Answers\Self\Configurer.cs" />
+    <Compile Include="Muscles\Answers\Self\SmallTalk.cs" />
+    <Compile Include="Muscles\Answers\Self\Terminator.cs" />
+    <Compile Include="Muscles\Answers\Sports\Scores.cs" />
+    <Compile Include="Muscles\Answers\Utility\FileLocator.cs" />
+    <Compile Include="Muscles\Answers\Weather\Weather.cs" />
+    <Compile Include="Muscles\Answers\Wolfram\Wolf.cs" />
+    <Compile Include="Muscles\Reflex.cs" />
+    <Compile Include="Muscles\Response.cs" />
+    <Compile Include="Muscles\SetOfSkills.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Muscles\Answers\Phone\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\Ruby.Core.csproj">
+      <Project>{770475a7-78f7-4935-bb9b-8fd42c5c0112}</Project>
+      <Name>Ruby.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

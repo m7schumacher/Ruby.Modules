@@ -1,0 +1,15 @@
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\obj\Debug\Atlas.Environment.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Atlas.Environment.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Atlas.Environment.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\SpotifyAPI.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Swiss.API.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Swiss.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\RestSharp.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Forecast.io.45.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Swiss.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\Swiss.API.pdb
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\RestSharp.xml
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\obj\Debug\Atlas.Environment.dll
+C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\obj\Debug\Atlas.Environment.pdb

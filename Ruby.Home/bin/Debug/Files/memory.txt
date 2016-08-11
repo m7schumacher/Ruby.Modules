@@ -1,0 +1,2349 @@
+how is the weather?|75
+play "amazing"|151
+5 + 8 - 2|44
+weather|75|overview
+google|26
+google test|26
+google 'test'|26
+google 'espn'|26
+x|0
+locate 'test'|27
+locate 'test'|27
+locate 'test'|27
+google 'test'|26
+google 'results'|26
+locate 'results'|27
+x|0
+x|0
+open chrome|2
+google 'weather fargo nd'|26
+x|0
+google 'weather fargo nd'|26
+google 'weather fargo nd'|26
+google 'weather fargo nd'|26
+x|0
+open excel|6
+open word|7
+open putty|4
+what's it like outside|75|temp
+x|0
+how's the weather|75|cond
+how windy is it|75|wind
+what's the wind like|75|wind
+how humid is it|75|humid
+what is the humidity like|75|humid
+like outside|75|temp
+x|0
+like outside|75|temp
+what's the wind like outside|75|wind
+whats the weather like|75|cond
+what's the weather like|75|cond
+weather|75|overview
+what's the weather like|75|cond
+hows the weather|75|cond
+how windy is it|75|wind
+how windy is it|75|wind
+how windy is it|75|wind
+what's it like outside|75|temp
+what's the wind like out there|75|wind
+how windy is it outside|75|wind
+weather|75|overview
+weather|75|overview
+what's the weather going to be like today|75|outlook
+today's weather|75|outlook
+what will the weather be like|75|outlook
+weather outlook|75|outlook
+weather outlook|75|outlook
+weather outlook|75|outlook
+weather tomorrow|75|tomorrow
+what will tomorrow's weather be like|75|tomorrow
+weather|75|overview
+weather|75|overview
+open facebook|10
+weather|75|overview
+weather|75|overview
+weather|75|overview
+open r|8
+weather|75|overview
+weather|75|overview
+weather|75|overview
+what's the weather like|75|cond
+what's the weather like|75|cond
+what's the weather like|75|cond
+what's it like outside|75|temp
+what's the wind like|75|wind
+what's the windchill like|75|chill
+is it cold out?|75|temp
+how cold is the windchill?|75|chill
+how cold is the windchill|75|chill
+how cold is it outside?|75|temp
+is it warm out?|75|temp
+weather|75|overview
+is is stormy?|75|cond
+is it stormy outside?|75|cond
+how windy is it today?|75|outlook
+what is today's weather outlook|75|outlook
+will it be windy today?|75|outlook
+will it be windy today?|75|outlook
+weather outlook|75|outlook
+what does tomorrow's weather look like?|75|tomorrow
+tomorrow weather|75|tomorrow
+tomorrow's weather|75|tomorrow
+what does tomorrow's weather look like?|75|tomorrow
+what does tomorrow's weather look like?|75|tomorrow
+open facebook|10
+how humid is it outside?|75|humid
+how windy is it?|75|wind
+weather|75|overview
+what will the weather be like today?|75|outlook
+google 'weather fargo nd'|26
+what is it like outside?|75|temp
+what is it like outside?|75|temp
+what is it like outside?|75|temp
+locate 'test'|27
+locate 'memory.txt'|27
+open notes|16
+open my drive|16
+open google drive|16
+open google drive|16
+x|0
+exit|0
+x|0
+x|0
+weather|75|overview
+whats the weather like|75|cond
+how cold is the windchill|75|chill
+how windy is it|75|wind
+how cold is it outside?|75|temp
+weather|75|overview
+how humid is it|75|humid
+how cold is it outside?|75|temp
+whats the weather like|75|cond
+weather|75|overview
+what does tomorrow's weather look like?|75|tomorrow
+exit|0
+how warm is it outside?|75|temp
+how warm is it outside?|75|temp
+whats the weather like|75|cond
+whats the windchill|75|chill
+how's the weather|75|cond
+open putty|4
+whats the weather like|75|cond
+x|0
+x|0
+open putty|4
+x|0
+whats the weather like|75|cond
+whats the weather like|75|cond
+how's the weather|75|cond
+open notes|16
+how's the weather|75|cond
+open pad|3
+exit|0
+open word|7
+open excel|6
+open microsoft word|7
+open microsoft excel|6
+open pad|3
+exit|0
+open pad|3
+open word|7
+open excel|6
+exit|0
+open visual studio|1
+code|1
+start coding|1
+research|45
+start research|45
+open word|7
+open excel|6
+open visual studio|1
+open notes|16
+open notes|16
+whats the weather like|75|cond
+open excel|6
+open excel|6
+open putty|4
+open putty|4
+open putty|4
+exit|0
+open putty|4
+open putty|4
+google|26
+open word|7
+open putty|4
+open putty|4
+open microsoft excel|6
+open pad|3
+open chrome|2
+go to facebook|10
+open facebook|10
+open facebook|10
+open google|16
+start chrome|2
+start putty|4
+open putty|4
+start putty|4
+go to class|16
+open putty|4
+x|0
+weather|75|overview
+start code|1
+open visual studio|1
+weather sunset|75|cond
+when is the sunset?|75|set
+what time is dawn?|75|rise
+x|0
+when will the sun set?|75|rise
+when will the sun set?|75|rise
+sunset and sunrise|75|rise
+sunset and sunrise|75|rise
+sunrise and sunset|75|rise
+sunset and sunrise|75|rise
+when is dawn?|75|rise
+sunrise and sunset|75|rise
+when will the sunrise and sunset be?|75|rise
+when will the sunset and sunrise be?|75|rise
+weather outlook|75|outlook
+what's the weather like?|75|cond
+weather|75|overview
+weather outlook|75|outlook
+what will the weather be like today?|75|outlook
+when is sunset?|75|set
+how windy is it?|75|wind
+what's the windchill?|75|chill
+is it raining?|75|cond
+is it raining|75|cond
+is it raining?|75|cond
+is it snowing?|75|cond
+google 'this is a test;|26
+google 'this is a test'|26
+locate 'results'|27
+exit|0
+start chrome|2
+x|0
+open code|1
+lets code|1
+x|0
+calendar outlook|76|look_o
+calendar outlook|76|look_o
+calendar outlook|76|look_o
+calendar outlook|76|look_o
+calendar outlook|76|look_o
+calendar outlook|76|look_o
+calendar outlook|76|look_o
+weather outlook|75|outlook
+calendar outlook|76|look_o
+calendar|76|look_o
+calendar|76|look_o
+calendar|76|look_o
+calendar|76|look_o
+what is the first event on my calendar?|76|first
+first event calendar|76|first
+what happens first today?|76|first
+what is first on the docket today?|76|first
+when does my day start today?|76|first
+when does my day start?|76|first
+when is my first event?|76|first
+when is my first event?|76|first
+when is my first event?|76|first
+when is my first event?|76|first
+when does my first event start today?|76|first
+what is my first event|76|first
+what is my first event|76|first
+what does my day look like?|76|look_o
+what does my day look like?|76|look_o
+open pad|3
+exit|0
+how many events today?|76|one
+how many events do i have today?|76|one
+how many events in my day?|76|one
+describe my day|76|look_o
+what does today look like?|75|outlook
+what does my day look like?|76|look_o
+what does my day look like?|76|look_o
+what is my first event|76|first
+how many events do i have today?|76|one
+what is the date today?|76|date
+what is today's date?|76|date
+what day is it today?|76|day
+what day is it?|76|day
+what day is it|76|day
+what time is it?|76|time
+time|76|time
+time|76|time
+what time is it?|76|time
+initialize excel|6
+how many events do i have today?|76|one
+when does my first event start today?|76|first
+what day is it|76|day
+time|76|time
+when is my first event?|76|first
+whats the weather like|75|cond
+weather outlook|75|outlook
+how windy is it|75|wind
+whats the windchill|75|chill
+how warm is it outside?|75|temp
+weather|75|overview
+time|76|time
+exit|0
+how does my day look?|76|look_o
+how's my day look?|76|look_o
+how's my day look?|76|look_o
+how does my day look?|76|look_o
+lets go to notes|16
+what does my day look like?|76|look_o
+how does my day look?|76|look_o
+go notes|16
+go code|1
+go word|7
+open microsoft excel|6
+open microsoft word|7
+open putty|4
+open code|1
+time|76|time
+exit|0
+how's my day look?|76|look_o
+what does my day look like?|76|look_o
+outlook|77
+morning|78
+daily brief|77
+good morning|78
+good morning atlas|78
+x|0
+lets open excel|6
+good morning|78
+lets do some writing|7
+open word|7
+good morning atlas|78
+open word|7
+alright atlas i need to write|7
+exit|0
+good morning|78
+open class|16
+lets open word|7
+exit|0
+open word|7
+x|0
+lets get on the internet|2
+x|0
+chrome please|2
+how does my day look?|76|look_o
+how does my day look?|76|look_o
+outlook|77
+lets do some writing|7
+alright atlas lets do some writing|7
+how warm is it outside?|75|temp
+weather outlook|75|outlook
+how windy is it|75|wind
+what is the windchill?|75|chill
+how windy is it|75|wind
+exit|0
+google 'chromecast ndsu wifi'|24
+open chrome|2
+x|0
+locate 'test'|27
+locate 'results'|27
+locate 'results'|27
+locate 'results'|27
+locate 'results'|27
+locate 'result'|27
+locate 'results'|27
+exit|0
+lets open notepad|3
+exit|0
+locate 'results'|27
+exit|0
+google 'change background color notepad++'|26
+exit|0
+x|0
+grow|11
+x|0
+grow|11
+dash|11
+grow|11
+x|0
+grow|11
+notes|16
+x|0
+x|0
+grow|11
+x|0
+alright atlas open word|7
+x|0
+x|0
+x|0
+dash|11
+x|0
+grow|11
+x|0
+open notepad|3
+x|0
+open pad|3
+open pad|3
+x|0
+open notepad|3
+x|0
+weather|75|overview
+grow|11
+weather|75|overview
+x|0
+dash|11
+dash|11
+x|0
+x|0
+lets see whats on facebook|10
+exit|0
+dash|11
+x|0
+grow|11
+whats the weather like|75|cond
+is it raining|75|cond
+how windy is it|75|wind
+weather outlook|75|outlook
+how humid is it|75|humid
+exit|0
+temperature|75|temp
+what is the high today?|75|high
+what is the high temperature today?|75|high
+what is the low today?|75|low
+what is the low temperature today?|75|low
+high and low|75|high
+open word|7
+grow|11
+exit|0
+dash|11
+x|0
+dash|11
+weather|75|overview
+whats the windchill|75|chill
+how windy is it|75|wind
+when is sunset?|75|set
+when is sunset?|75|set
+how humid is it|75|humid
+weather outlook|75|outlook
+outlook|77
+good morning|78
+start word|7
+weather|75|overview
+alright atlas start word|7
+alright atlas open word|7
+start word|7
+exit|0
+weather|75|overview
+morning|78
+exit|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+start writing|7
+x|0
+i'm going to do some writing|7
+lets remote|4
+x|0
+r|8
+open winscp|5
+start winscp|5
+x|0
+alright atlas open winscp|5
+alright atlas open putty|4
+x|0
+x|0
+x|0
+x|0
+locate 'transcript'|27
+google 'a and w'|26
+alright lets remote|4
+alright atlas lets open putty|4
+open winscp|5
+start winscp|5
+weather|75|overview
+lets do some writing|7
+class|16
+whats the windchill|75|chill
+open word|7
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+alright atlas lets open pad|3
+weather|75|overview
+lets open excel|6
+lets make a spreadsheet|6
+x|0
+open chrome|2
+open chromecast|203
+x|0
+weather|75|overview
+weather|75|overview
+exit|0
+how warm is it outside?|75|temp
+how warm is it?|75|temp
+temperature|75|temp
+x|0
+how windy is it?|75|wind
+how windy is it?|75|wind
+x|0
+what is the windchill outside?|75|chill
+what's the windchill outside?|75|chill
+how cold is it?|75|temp
+exit|0
+weather outlook|75|outlook
+what is the humidity like outside?|75|humid
+how humid is it?|75|humid
+x|0
+when is sunset?|75|set
+when is sunrise?|75|rise
+when is sunrise?|75|rise
+x|0
+when will it get dark out?|75|set
+when is sunrise?|75|rise
+x|0
+when will it get dark out?|75|set
+when is dusk?|75|set
+x|0
+what does tomorrow's weather look like?|75|tomorrow
+weather tomorrow|75|tomorrow
+x|0
+what does today's weather look like?|75|outlook
+what is today's high?|75|high
+what is today's low?|75|low
+x|0
+what's the high today?|75|high
+x|0
+what is today's high?|75|high
+what's today's high?|75|high
+what is the high today?|75|high
+what will today's weather be like?|75|outlook
+outlook|77
+x|0
+open chrome|2
+weather|75|overview
+x|0
+cmd|225
+x|0
+x|0
+weather|75|overview
+x|0
+x|0
+terminal|225
+command prompt|225
+command|225
+prompt|225
+open command prompt|225
+open terminal|225
+x|0
+x|0
+terminal|225
+command|225
+command|225
+open command prompt|225
+terminal|225
+open terminal|225
+x|0
+how's the weather|75|cond
+how humid is it?|75|humid
+lets open word|7
+x|0
+lets open word|7
+open word|7
+lets open word|7
+lets do some writing|7
+exit|0
+weather|75|overview
+x|0
+lets do some writing|7
+lets do some writing|7
+open word|7
+weather|75|overview
+how warm is it?|75|temp
+is it warm out?|75|temp
+when is the sunset?|75|set
+how humid is it|75|humid
+is it raining?|75|cond
+is it raining outside?|75|cond
+what's the weather like outside?|75|cond
+what's today's forecast?|75|outlook
+x|0
+what's the forecast look like?|75|outlook
+hows the forecast look?|75|outlook
+what does the forecast look like?|75|outlook
+how does the forecast look?|75|outlook
+how does the forecast look today?|75|outlook
+how does the forecast look?|75|outlook
+how does the forecast look?|75|outlook
+x|0
+cmd|225
+cmd|225
+x|0
+hello atlas|150
+hey there atlas|150
+hey atlas|150
+x|0
+weather|75|overview
+x|0
+outlook|77
+exit|0
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+hello|150
+hello|150
+hey|150
+hello atlas|150
+hey atlas|150
+hey atlas whats up|150
+hows the weather|75|cond
+is it raining?|75|cond
+is it sunny outside?|75|cond
+what's on my schedule for today?|76|look_o
+how does my schedule look?|76|look_o
+x|0
+x|0
+x|0
+how does my schedule look?|76|look_o
+x|0
+open up spotify|15
+open spotify|15
+hows the weather?|75|cond
+how cold is it today?|75|outlook
+is it sunny?|75|cond
+what day is it?|76|day
+what's the date?|76|date
+what does my schedule look like?|76|look_o
+what day is it?|76|day
+what day is it?|76|day
+what time is it?|76|time
+what does my schedule look like today?|76|look_o
+x|0
+x|0
+x|0
+what time is it?|76|time
+what day is it?|76|day
+what's the date?|76|date
+when will the sunset?|75|set
+how windy is it?|75|wind
+what's the windchill then?|75|chill
+how cold is it?|75|temp
+how warm is it?|75|temp
+when did the sunrise?|75|rise
+how humid is it?|75|humid
+google 'baseball reference'|26
+x|0
+x|0
+x|0
+x|0
+x|0
+x|0
+hows the weather?|75|cond
+hows the weather?|75|cond
+what's the weather like?|75|cond
+weather|75|overview
+weather|75|overview
+what will the weather be like today?|75|outlook
+how does the weather look today?|75|outlook
+x|0
+how does the weather look today?|75|outlook
+what does today's weather look like?|75|outlook
+x|0
+weather|75|overview
+x|0
+weather|75|overview
+x|0
+hello|150
+hello|150
+hey|150
+hey there|150
+hello atlas|150
+x|0
+hello|150
+x|0
+x|0
+x|0
+x|0
+hello|150
+hello|150
+hello|150
+x|0
+hello|150
+how is the weather?|75|cond
+google 'peyton manning injury'|26
+hello|150
+x|0
+hello|150
+hello|150
+x|0
+hello|150
+hello|150
+hello|150
+weather|75|overview
+how windy is it|75|wind
+google 'keep'|26
+how is the weather?|75|cond
+open word|7
+chrome|2
+code|1
+google 'libspotify tutorial'|26
+x|0
+locate 'sharpofity'|27
+locate 'sharpotify'|27
+x|0
+x|0
+play "test"|151
+play "burn in me"|151
+play "amazing"|151
+play "amazing"|151
+x|0
+play "amazing"|151
+play "amazing"|151
+x|0
+x|0
+play "search my heart"|151
+x|0
+play "amazing"|151
+play "amazing"|151
+x|0
+play "amazing"|151
+x|0
+play "temp"|151
+play "tempo"|151
+x|0
+play some christmas music|151
+next song|151
+x|0
+let's get some christmas music playing|151
+quiet time|151
+i need to unwind|151
+chill out|151
+lets chill out|151
+x|0
+lets chill out|151
+play some techno|151
+play some techno|151
+play some techno|151
+play some techno|151
+play some techno|151
+x|0
+play some techno|151
+play some techno|151
+x|0
+play some techno|151
+x|0
+play "search my heart"|151
+x|0
+play "search my heart"|151
+play "tempo"|151
+x|0
+play "tempo"|151
+play "tempo"|151
+x|0
+play "tempo"|151
+x|0
+play "tempo"|151
+play "cross"|151
+play "tech"|151
+play some beats|151
+play some christmas music|151
+quiet time|151
+x|0
+lets chill out|151
+let's chill out|151
+x|0
+let's chill out|151
+let's chill out|151
+x|0
+chill out|151
+let's chill out|151
+let's chill out|151
+let's chill out|151
+x|0
+lets chill out|151
+x|0
+lets chill out|151
+let's chill out|151
+x|0
+lets chill out|151
+play "amazing"|151
+x|0
+let's get some christmas music playing|151
+play some chill music|151
+play some pump up music|151
+play some "tempo"|151
+play "alpha"|151
+play "alpha"|151
+play "alpha"|151
+x|0
+play "alpha"|151
+x|0
+play "amazing"|151
+x|0
+open word|7
+play "amazing"|151
+x|0
+play "amazing"|151
+x|0
+play "lose yourself"|151
+x|0
+how far is blank from here|152
+how far away is "4822 meadow creek drive, fargo nd" from here?|152|dist
+how far is home from here?|152|dist
+how far is home from here?|152|dist
+how far is home from here?|152|dist
+how far is home?|152|dist
+how far is "4822 meadow creek drive, fargo nd" from here|152|dist
+how long would it take to get home?|152|time
+how long of a drive would it be to get home?|152|time
+how long a drive is home?|152|time
+how long a drive is home?|152|time
+how long to get home?|152|time
+how long to get home?|152|time
+directions to get home|152|gen
+how far is home?|152|dist
+how far is "nicolette mall" from here?|152|dist
+how far is "nicolette mall" from here?|152|dist
+how long to drive to "nicolette mall"|152|time
+time to home|152|time
+time to home|152|time
+how far away is home?|152|dist
+play "amazing"|151
+play "amazing"|151
+play "amazing"|151
+play "amazing"|151
+play "amazing"|151
+play "amazing"|151
+play "jungle"|151
+x|0
+where am i?|152|where
+where am i?|152|where
+where am i?|152|where
+where am i?|152|where
+play "jungle"|151
+x|0
+play "jungle"|151
+x|0
+x|0
+play "jungle"|151
+x|0
+2 + 5|153
+2 * 7 * 2 / 10 * 2|153
+2 * 7 * 2 / 10 * 2|153
+2 + 4 * 4 + 2|153
+2 * 6 + 3 * 5|153
+2 * 6 + 3 * 5|153
+2 + 6 / 2 * 3|153
+sum "5 + 6"|153
+compute "5 + 7"|153
+compute "5 * 7"|153
+2 + 5 * 7|153
+weather|75|overview
+when is sunset?|75|set
+x|0
+x|0
+x|0
+x|0
+x|0
+weather|75|overview
+play "jungle"|151
+x|0
+play "jungle"|151
+how far away is home?|152|dist
+what's it like outside?|75|temp
+how's the weather?|75|cond
+weather|75|overview
+how's the weather?|75|cond
+is it windy?|75|wind
+when does the sunset?|75|set
+when did the sun rise?|75|rise
+what does tomorrow's weather look like?|75|tomorrow
+play "search my heart"|151
+open chrome|2
+play "jungle"|151
+play "jungle"|151
+play "jungle"|151
+play "amazing"|151
+play "tempo"|151
+play "tempo"|151
+play "tempo"|151
+play "tempo"|151
+play "cross"|151
+play "jam"|151
+play "beam"|151
+play "shazam"|151
+play "alpha"|151
+open excel|6
+630 * 5|153
+640 * 10|153
+14 * 12.5|153
+2000 / 12|153
+166 / 4|153
+play something slow|151
+play "up"|151
+x|0
+play "shazam"|151
+play "tempo"|151
+play "alpha"|151
+play "up"|151
+play "android porn"|151
+x|0
+play "up"|151
+play "tempo"|151
+play "dynamite"|151
+play "android porn"|151
+play "centuries"|151
+play "chill"|151
+play "cross"|151
+play "chill"|151
+play "boo"|151
+play "say something"|151
+play "just what i am"|151
+x|0
+play "tempo"|151
+x|0
+play "tempo"|151
+play "gdfr"|151
+x|0
+open code|1
+where am i?|152|where
+where am i?|152|where
+hows the weather?|75|cond
+hows the weather?|75|cond
+how hot is it?|75|cond
+how warm is it?|75|temp
+weather|75|overview
+how far is home?|152|dist
+open chrome|2
+weather|75|overview
+how windy is it?|75|wind
+when is dusk?|75|set
+how far away is "2508 delaware street 55414"|152|dist
+where am i?|152|where
+how far is home?|152|dist
+open word|7
+locate "test.txt"|27
+where am i?|152|where
+where am i?|152|where
+where am i?|152|where
+weather|75|overview
+x|0
+where am i?|152|where
+how far is home?|152|dist
+how far is "55414"|152|dist
+x|0
+where am i?|152|where
+play "amazing"|151
+x|0
+x|0
+where am i?|152|where
+x|0
+x|0
+x|0
+play "amazing"|151
+6 + 3|153
+6 * 9 + 3|153
+where am i?|152|where
+how far is home?|152|dist
+x|0
+locate "data.txt"|27
+x|0
+locate "data.txt"|27
+locate "data.txt"|27
+locate "data.txt"|27
+locate "data.txt"|27
+locate "data.txt"|27
+where am i?|152|where
+how warm is it?|75|temp
+what does tomorro|75|temp
+what does tomorrow's weather look like?|75|tomorrow
+google "yelp api c#"|26
+google "yelp api c"|26
+google 'yarn api c#'|26
+google 'yarn api c'|26
+i'm hungry|154|food
+where is the nearest "burger king"|154|gen_address
+where is the nearest "burger king"|154|gen_address
+nearest "burger king"|154|gen
+nearest "starbucks"|154|gen
+nearest "walgreens"|154|gen
+where is the nearest "mcdonalds"|154|gen_address
+nearest "taco bell"|154|gen
+nearest "place to eat"|154|gen
+nearest "fast food"|154|food
+i'm hungry|154|food
+i'm hungry|154|food
+im hungry|154|food
+im hungry|154|food
+im hungry for fast food|154|food
+im hungry for fast food|154|food
+im low on gas|154|gas
+im running low on gas|154|gas
+i need to fill up with gas|154|gas
+my car is low on gas|154|gas
+i need to fill up on gas|154|gas
+nearest gas station|154|gas
+nearest gas station|154|gas
+i need to fill up on gas|154|gas
+nearest "bar"|154|gen
+how far is the nearest "bar"|154|gen
+im hungry|154|food
+nearest "target"|154|gen
+nearest "walmart"|154|gen
+nearest "walmart"|154|gen
+open word|7
+open word|7
+where am i?|152|where
+nearest "burger king"|154|gen
+weather|75|overview
+how windy is it?|75|wind
+open word|7
+weather|75|overview
+weather|75|overview
+where am i?|152|where
+where am i?|152|where
+open chrome|2
+open code|1
+x|0
+verse "john 3:16"|155|verse
+verse "john 3:16"|155|verse
+verse "john 3:16"|155|verse
+verse "john 3:16"|155|verse
+verse "phillipians 4:13"|155|verse
+verse "philippians 4:13"|155|verse
+lookup verse "john 3:16"|155|verse
+verse "genisis 1:1"|155|verse
+verse "genesis 1:1"|155|verse
+open chrome|2
+nearest "target"|154|gen
+nearest "mcdonalds"|154|gen
+open code|1
+x|0
+nearest "mcdonalds"|154|gen
+nearest "target"|154|gen
+open chrome|2
+open code|1
+open chrome|2
+weather|75|overview
+weather|75|overview
+weather|75|overview
+where am i?|152|where
+nearest "arbys"|154|gen
+weather|75|overview
+200 + 5|153
+how windy is it?|75|wind
+google "adrian peterson"|26
+verse "john 3:16"|155|verse
+verse "genesis 1:1"|155|verse
+play "amazing"|151
+x|0
+open chrome|2
+weather|75|overview
+open code|1
+open spotify|15
+x|0
+x|0
+open code|1
+weather|75|overview
+how humid is it?|75|humid
+google "arian foster groin"|26
+weather|75|overview
+how far am i from home?|152|dist
+how far am i from "2508 delaware street"|152|dist
+nearest "kfc"|154|gen
+open cmd|225
+is it raining?|75|cond
+where am i?|152|where
+miles to "4822 meadow creek drive fargo nd"|152|dist
+how far is home from here?|152|dist
+what time is it?|76|time
+what is 2 + 5?|153
+2 + 5|153
+nearest "taco bell"|154|gen
+what is "taco bell"|26
+how windy is it?|75|wind
+how fast is the wind?|75|wind
+will it rain tomorrow?|75|tomorrow
+weather outlook|75|outlook
+tomorrow weather|75|tomorrow
+play "photograph"|151
+play "amazing"|151
+nearest "taco bell"|154|gen
+where am i?|152|where
+how far is home?|152|dist
+where am i?|152|where
+where am i?|152|where
+where am i?|152|where
+nearest "burger king"|154|gen
+where am i?|152|where
+nearest "taco bell"|154|gen
+where am i?|152|where
+where am i?|152|where
+nearest "taco bell"|154|gen
+where am i?|152|where
+nearest "taco bell"|154|gen
+nearest "taco bell"|154|gen
+how far is "2508 delaware street" from here|152|dist
+nearest "taco bell"|154|gen
+where am i?|152|where
+where am i?|152|where
+nearest "taco bell"|154|gen
+nearest "taco bell"|154|gen
+phone number nearest "taco bell"|154|gen_number
+x|0
+where am i?|152|where
+weather|75|overview
+how windy is it?|75|wind
+nearest "taco bell"|154|gen
+where am i?|152|where
+tomorrow weather|75|tomorrow
+open word|7
+open word|7
+open r|8
+open chrome|2
+open code|1
+x|0
+weather|75|overview
+how windy is it?|75|wind
+how humid is it?|75|humid
+how humid is it?|75|humid
+what is the humidity like outside?|75|humid
+is it humid out?|75|humid
+update songs|151
+update songs|151
+play "renegades"|151
+x|0
+what day is it?|76|day
+weather|75|overview
+what day is it?|76|day
+what day is it?|76|day
+what day is it?|76|day
+weather|75|overview
+what day is it?|76|day
+what day is tomorrow?|76|day
+what does my day look like?|76|look_o
+what is the date?|76|date
+how does the calendar look?|76|look_o
+when is the first event today?|76|first
+how many events today?|76|one
+what time is it?|76|time
+score twins|156|future_basic
+score twins|156|future_basic
+score twins|156|future_basic
+score twins|156|future_basic
+score twins|156|future_basic
+score twins|156|future_basic
+twins score|156|future_basic
+score twins|156|future_basic
+score twins pitching|156|future_basic
+score twins pitching|156|future_basic
+when do the twins play today?|156|future_basic
+when do the twins play?|156|future_basic
+when do the twins play?|156|future_basic
+who do the twins play?|156
+who do the twins play|156
+when do the twins play|156|future_basic
+who do the twins play|156
+how are the twins doing|156|future_basic
+how are the twins doing|156|future_basic
+who is pitching for the twins today?|156|future_basic
+who is pitching today for the twins |156|future_basic
+who takes the mound for the twins today|156|future_basic
+today's pitcher|156
+how are the doing|156
+who do the twins play|156
+when do the play|156
+how are the twins doing|156|future_basic
+who do the yankees play?|156|future_basic
+who do the yankees play?|156|future_basic
+who do the twins play?|156
+who do the twins play|156
+who do the indians play|156|future_basic
+who do the rays play|156|future_basic
+who do the rays play|156|future_basic
+who do the rays play|156|future_basic
+who do the rays play|156|future_basic
+who pitches for the yankees|156|future_basic
+who pitches for the yankees|156|future_basic
+who do the yankees play?|156|future_basic
+who pitches for the indians|156|future_basic
+who pitches for the tigers today?|156|future_basic
+who do the tigers play?|156|future_basic
+who do the twins play|156
+pitching for the reds|156|future_basic
+pitching for the reds|156|future_basic
+who do the reds play?|156|future_basic
+how are the yankees doing?|156|future_basic
+yankees opponent|156|future_basic
+time yankees play|156|future_basic
+time yankees play|156|future_basic
+time indians play|156|future_basic
+time|76|time
+time|76|time
+time|76|time
+what time is it?|76|time
+what time is it?|76|time
+time|76|time
+time|76|time
+what time is dawn?|75|rise
+who do the yankees play today?|156|future_basic
+time yankees play|156|future_basic
+time pirates play|156|future_basic
+what time do the blue jays play today?|156
+what time do the orioles play?|156|future_basic
+time|76|time
+time orioles play|156|future_basic
+when is dawn?|75|rise
+when is dusk?|75|set
+when do the twins play?|156|future_basic
+when do the twins play?|156|future_basic
+x|0
+when do the twins play?|156|future_basic
+when do the twins play?|156|future_basic
+x|0
+when do the twins play?|156|future_basic
+when do the twins play?|156|future_basic
+when do the yankees play?|156|future_basic
+when do the yankees play?|156|future_basic
+when do the twins play?|156|future_basic
+weather|75|overview
+when do the nationals play?|156|future_basic
+x|0
+mets score|156|future_basic
+mets score|156|future_basic
+mets score|156|future_basic
+mets score|156|future_basic
+blue jays score|156
+blue jays score|156
+rockies score|156|future_basic
+rockies score|156|future_basic
+rockies score|156|future_basic
+open chrome|2
+x|0
+google "kinect sdk"|26
+weather|75|overview
+how windy is it?|75|wind
+how humid is it?|75|humid
+twins score|156|future_basic
+open excel|6
+google 'pop on sale'|26
+score reds|156|future_basic
+score reds|156|future_basic
+score reds|156|future_basic
+reds score|156|future_basic
+score reds|156|future_basic
+reds score|156|future_basic
+reds score|156|future_basic
+score diamondbacks|156|future_basic
+reds score|156|future_basic
+how are the reds doing?|156|future_basic
+how are the diamondbacks doing?|156|future_basic
+how are the twins doing?|156|future_basic
+yankees score|156|future_basic
+mets score|156|future_basic
+yankees score|156|future_basic
+yankees score|156|future_basic
+yankees score|156|future_basic
+yankees score|156|future_basic
+yankees score|156|future_basic
+yankees score|156|future_basic
+score twins|156|future_basic
+score twins|156|future_basic
+twins score|156|future_basic
+yankees score|156|future_basic
+astros score|156|future_basic
+blue jays score|156
+twins score|156|future_basic
+twins score|156|future_basic
+how are the yankees doing?|156|future_basic
+score twins|156|future_basic
+how are the yankees doing|156|future_basic
+how are the yankees doing?|156|future_basic
+how are the astros doing?|156|future_basic
+mets score|156|future_basic
+mets score|156|future_basic
+how are the reds doing|156|future_basic
+how are the reds doing|156|future_basic
+test weather|75|cond
+twins score|156|future_basic
+how are the twins doing?|156|future_basic
+how did the twins do|156|future_basic
+how did the twins do?|156|future_basic
+how did the rangers do?|156|future_basic
+how did the cubs do today|156|future_basic
+how did the twins do|156|future_basic
+how did the yankees do today?|156|future_basic
+how did the red sox do today|156|future_basic
+do the twins play today|156|future_basic
+do the yankees play today?|156|future_basic
+where am i?|152|where
+how far is home?|152|dist
+how long to home?|152|time
+nearest "taco bell"|154|gen
+weather|75|overview
+weather tomorrow|75|tomorrow
+how humid is it|75|humid
+update songs|151
+music "here in your presence"|151
+music pause|151
+music "here in your presence"|151
+music "alpha"|151
+music pause|151
+play "here in your presence"|151
+music pause|151
+play "here in your presence"|151
+play "here in your presence"|151
+music pause|151
+play "here in your presence"|151
+pause music|151
+play "here in your presence"|151
+music next|151
+music next|151
+play "here in your presence"|151
+play "here in your presence"|151
+music pause|151
+exit|0
+weather|75|overview
+weather|75|overview
+how humid is it?|75|humid
+how windy is it?|75|wind
+when do the twins play?|156|future_basic
+weather|75|overview
+how hot is it?|75|overview
+what's the weather like?|75|cond
+how warm is it?|75|temp
+how hot is it?|75|temp
+how warm is it?|75|temp
+how hot is it?|75|temp
+how are the twins doing?|156|future_basic
+weather tomorrow|75|tomorrow
+is it raining?|75|cond
+play "here in your presence"|151
+what does my day look like?|76|look_o
+music pause|151
+verse "john 3:16"|155|verse
+verse "genesis 1:1"|155|verse
+verse "genesis 1:5"|155|verse
+hows the weather|75|cond
+how warm is it?|75|temp
+open word|7
+what does my day look like?|76|look_o
+where am i?|152|where
+nearest "mcdonalds"|154|gen
+verse "genesis 1:1"|155|verse
+dash|11
+how are the reds doing?|156|future_basic
+exit|0
+weather|75|overview
+google|26
+google test|26
+google 'test'|26
+google 'espn'|26
+weather|75|overview
+google|26
+weather|75|overview
+google|26
+google test|26
+google 'test'|26
+google 'espn'|26
+weather|75|overview
+how does my day look?|76|look_o
+how does my day look?|76|look_o
+how does my day look|76|look_o
+how does my day look|76|look_o
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+define "computer"|166
+what does "book" mean|166
+what does "game" mean?|166
+what does "athlete" mean?|166
+what does "athletic" mean|166
+what does "computer" mean?|166
+what does "maglomaniac" mean?|166
+what does "megalomaniac" mean|166
+weather|75|overview
+weather tomorrow|75|tomorrow
+how does my day look|76|zero
+how windy is it|75|wind
+how hot is it|75|wind
+how hot is it|75|wind
+how are the twins doing|156|future_basic
+how are the yankees doing|156|current_losing
+how humid is it|75|humid
+weather|75|overview
+weather|75|overview
+how are the twins doing|156|future_basic
+what time is it|76|time
+where am i|152|where
+how far is home|152|dist
+how long to get home|152|time
+nearest taco bell|154|gen
+how does my day look|76|zero
+how windy is it|75|wind
+what's the windchill|75|chill
+when is the sunset|75|set
+when did the sunrise|75|rise
+what time is it|76|time
+what time is it|76|time
+how's my day look|76|zero
+where am i|152|where
+where am i|152|where
+what time is it|76|time
+how are the reds doing|156|current_winning
+when do the twins play|156|future_basic
+when is sunset|75|set
+when is the sunset|75|set
+what day is it|76|day
+what's the date|76|date
+what time is it|76|time
+where am i|152|where
+how does my day look|76|zero
+weather|75|overview
+what's the high today|75|high
+weather|75|overview
+how's my day look|76|zero
+when do the twins play|156|future_basic
+weather|75|overview
+when is sunset|75|set
+weather|75|overview
+when do the twins play|156|future_basic
+how humid is it|75|humid
+how windy is it|75|wind
+how are the yankees doing|156|current_losing
+how's my day look|76|zero
+when is sunset|75|set
+weather|75|overview
+how are the twins doing|156|future_basic
+where am i|152|where
+what time is it|76|time
+what day is it|76|day
+what's the date|76|date
+how's the weather|75|cond
+how hot is it|75|cond
+weather|75|overview
+weather tomorrow|75|tomorrow
+how are the reds doing|156|current_winning
+exit|0
+how many steps|79
+how many steps|79
+how many steps|79|steps
+how many steps|79|steps
+how many steps|79|steps
+how many steps|79|steps
+health report|79|report
+health report|79|report
+health report|79|report
+health report|79|report
+how many steps have i taken today|79|steps
+how many calories have i burned today|79|calories
+how much sleep did i get last night|79|sleep
+how far have i walked today|79|distance
+how has my heart rate been today|79
+how active have i been today|79|activity
+hows my activity been|79|activity
+health report|79|report
+how was my sleep|79|sleep
+how did i sleep|79|sleep
+how long did i sleep|79|sleep
+how many calories have i burned?|79|calories
+how many steps?|79
+how many steps?|79
+how many steps?|79
+how many steps|79
+weather|75|overview
+when is sunset|75|set
+what time is it|76|time
+what day is it|76|day
+how windy is it|75|wind
+weather|75|overview
+where am i|152|where
+how far away is home|152|dist
+exit|0
+research|45
+weather|75|overview
+when do the twins play|156|future_basic
+how many steps|79|steps
+how far have i walked today?|79|distance
+hows my heart|79|distance
+x|0
+hows my heart|79
+x|0
+research|45
+open putty|4
+open putty|4
+play "amazing"|151
+open word|7
+music pause|151
+hows the weather|75|cond
+how hot is it|75|cond
+how hot is it outside|75|temp
+what's the high today?|75|high
+weather tomorrow|75|tomorrow
+when do the twins play?|156|future_basic
+how does my day look?|76|look_o
+where am i?|152|where
+how far is home?|152|dist
+how long to get home?|152|time
+how windy is it?|75|wind
+how humid is it?|75|humid
+what time is it?|76|time
+what day is it?|76|day
+what's the date?|76|date
+define "jungle"|166
+define "college"|166
+define "master"|166
+define "weather"|166
+verse "luke 3:16-17"|155|verse
+nearest "popeyes"|154|gen
+weather|75|overview
+weather outlook|75|outlook
+good morning|78
+how are the twins doing?|156|future_basic
+who pitches for the twins?|156|future_basic
+who pitches for the twins?|156|future_pitch
+twins pitcher|156|future_pitch
+yankees pitcher|156|future_pitch
+who pitches for the yankees|156|future_pitch
+who is pitching for the reds|156|future_pitch
+who is pitching for the angels|156|future_pitch
+who is pitching for the blue jays today|156
+who pitches for the marlins today|156|future_pitch
+update songs|151
+play "wild ones"|151
+music pause|151
+dash|11
+hello|150
+hello atlas|150
+3 + 5|153
+open blackboard|23
+play "search my heart"|151
+music pause|151
+exit|0
+x|0
+update songs|151
+music play "wolves without teeth"|151
+music pause|151
+music resume|151
+music play "wolves without teeth"|151
+music play "wolves without teeth"|151
+play "wolves without teeth"|151
+music play "wolves without teeth"|151
+exit|0
+music play "wolves without teeth"|151
+music play "amazing"|151
+music pause|151
+music play "wolves without teeth"|151
+update songs|151
+music play "wolves without teeth"|151
+music pause|151
+exit|0
+music play "wolves without teeth"|151
+update songs|151
+exit|0
+music play "wolves without teeth"|151
+music pause|151
+define "bequeath"|166
+define "bequeath"|166
+define "give"|166
+weather|75|overview
+fantasy news|167
+fantasy news|167
+fantasy news|167
+fantasy news|167
+fantasy news "julio jones"|167
+any news in fantasy|167
+any news in fantasy|167
+any news in fantasy?|167
+fantasy news "lesean mccoy"|167
+any fantasy news?|167
+how is my fantasy team doing|167
+fantasy news|167
+fantasy news|167
+how is my fantasy team doing|167
+how is my fantasy team doing?|167
+how is my team doing?|167
+how is my team doing?|167
+what's going on in fantasy|167
+what's going on in fantasy?|167
+how is my team doing?|167
+who are you|168
+what can you do|168
+what do you do|168
+who are you?|168
+what is atlas|168
+who are you?|168
+exit|0
+who are you|168
+what do you do|168
+what can you do|168
+fantasy news|167
+weather|75|overview
+weather tomorrw|75|cond
+weather tomorrow|75|tomorrow
+where am i?|152|where
+what time is it|76|time
+hows my team doing|167
+what day is it?|76|day
+how windy is it?|75|wind
+how humid is it?|75|humid
+weather tomorrow|75|tomorrow
+define "bun"|166
+define "clash of clans"|166
+how many steps have i taken?|79|steps
+how active have i been?|79|activity
+how was my sleep?|79|sleep
+how far is home?|152|dist
+how far is "2508 delaware street minneapolis"|152|dist
+will it rain today?|75|outlook
+dash|11
+open dash|11
+open excel|6
+open excel|6
+exit|0
+research|45
+x|0
+verse "luke 23:14-25"|155|verse
+weather|75|overview
+who are you|168
+what can you do|168
+weather|75|overview
+weather|75|overview
+how's the weather|75|cond
+what are you|168
+what are you|168
+how are the twins doing|156|current_winning
+weather|75|overview
+weather|75|overview
+like outside|75|temp
+play chill|151
+research|45
+x|0
+how's the weather|75|cond
+how windy is it|75|wind
+whats the windchill|75|chill
+weather|75|overview
+what's the windchill outside|75|chill
+weather|75|overview
+how windy is it|75|wind
+how are the twins doing|156|current_winning
+weather|75|overview
+how are the twins doing|156|current_winning
+how are the twins doing|156|current_winning
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+how's the weather|75|cond
+how's the weather|75|cond
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75|overview
+weather|75
+weather|75|cond
+weather|75|cond
+weather|75|overview
+what time is it|76|time
+how windy is it?|75
+how windy is it?|75|wind
+what is the windchill?|75|chill
+how hot is it?|75
+fantasy news|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+how is my team doing|167
+weather|75|overview
+how is my team|167
+weather|75|overview
+how windy is it?|75|wind
+what's the windchill?|75|chill
+what time is it?|76|time
+where am i?|152
+weather|75|overview
+where am i|152
+where am i?|152
+where am i?|152
+where am i?|152
+where am i?|152
+where am i?|152
+where am i?|152
+where am i?|152|where
+how far is home?|152|dist
+how many steps have i taken?|79|steps
+how many calories?|79|calories
+when is sunset?|75|set
+when is sunrise?|75|rise
+how humid is it?|75|humid
+what does tomorrow's weather look like?|75|tomorrow
+how's the weather?|75|cond
+how warm is it?|75|cond
+how are the twins doing?|156|finished_loser
+verse "john 3:16"|155|verse
+8 + 5|153|plus
+8 + 5|153
+8 / 3|153
+23 * 3003|153
+32 * 4 + 4 * 12|153
+how is my team doing?|167
+any fantasy news?|167
+play "amazing"|151
+music pause|151
+update songs|151
+play "wolves without teeth"|151
+music pause|151
+play some beats|151
+music pause|151
+play some techno|151
+music pause|151
+lets get some christmas music in here|151
+music pause|151
+time to chill|151
+music pause|151
+quiet time|151
+music pause|151
+nearest "taco bell"|154|distance
+nearest "taco bell"|154|distance
+i'm low on gas|154|gas
+im low on gas|154|gas
+x|0
+exit|0
+what are you?|168
+what can you do?|168
+what can you do?|168
+what time is it?|76|time
+where am i?|152|where
+who are you?|168
+what day is it?|76|day
+what's the date?|76|date
+how far is home?|152|dist
+how long to get home?|152|time
+how is my fantasy team doing?|167
+any fantasy news on "julio jones"|167
+any fantasy news?|167
+any news on steve smith|167
+any news on "steve smith"|167
+update songs|151
+music play "let the drummer kick"|151
+music pause|151
+music play "black skinhead"|151
+music pause|151
+lets get some beats in here|151
+music next|151
+music previous|151
+music next|151
+music next|151
+music pause|151
+turn on some study music|151
+music pause|151
+lets worship|151
+music next|151
+music pause|151
+lets jam|151
+music pause|151
+play me some hillsong|151
+music pause|151
+play some bethel|151
+music pause|151
+lets party|151
+music next|151
+music pause|151
+shot o'clock!|151
+music next|151
+music pause|151
+lets party!|151
+music pause|151
+shot o'clock!|151
+music puase|151
+music pause|151
+play "black skinhead"|151
+music pause|151
+how many steps?|79|steps
+how does my day look?|76|outlook
+x|0
+play music tempo|151
+play tempo|151
+lets get some beats in here|151
+music pause|151
+play some beats|151
+music pause|151
+let's party!|151
+music next|151
+music next|151
+music next|151
+music pause|151
+time to worship|151
+time to worship|151
+music pause|151
+lets get some christmas music going|151
+music pause|151
+let's rock|151
+music pause|151
+lets dance|151
+music pause|151
+quiet time|151
+music pause|151
+lets party!|151
+music pause|151
+play some study music|151
+lets party!|151
+music pause|151
+brady wants to know what time it is|76|shots
+brady wants to know what time it is|76|shots
+tell brady what time it is|76|shots
+brady wants to know the time|76|shots
+play tempo|151
+get some beats in here|151
+lets get pumped up|151
+music next|151
+weather|75|overview
+weather|75|overview
+weather|75|overview
+lets chill|151
+open chrome|2
+open chrome|2
+weather|75|overview
+2 + 2|153
+38 * 45|153
+where am i?|152|where
+weather|75|overview
+weather tomorrow|75|tomorrow
+lets party|151
+age of adrian peterson|169
+age of adrian peterson|169
+age of larry fitzgerald|169
+days since world war 2|169
+lets party|151
+music pause|151
+music resume|151
+music resume|151
+shot o'clock|151
+music pause|151
+lets party|151
+music next|151
+lets get pumped up|151
+put on some classics|151
+music next|151
+music next|151
+lets jam out|151
+lets party|151
+music pause|151
+lets chill|151
+music pause|151
+lets take shots!|151
+how tall is obama?|169
+music pause|151
+music resume|151
+how windy is it?|75|wind
+how windy is it?|75|wind
+music pause|151
+lets program|151
+play some program music|151
+put some program music on|151
+lets party|151
+music pause|151
+get pumped up|151
+music next|151
+music pause|151
+music next|151
+music next|151
+music next|151
+lets party|151
+height of obama|169
+hows the weather|75|cond
+how hot is it?|75|cond
+how hot is it?|75|temp
+is it cold out?|75|temp
+music next|151
+music next|151
+music next|151
+music next|151
+lets party|151
+music next|151
+open putty|4
+open winscp|5
+open putty|4
+open winscp|5
+music next|151
+music next|151
+music next|151
+music next|151
+lets party|151
+lets get pumped up|151
+open putty|4
+open winscp|5
+how tall is david ortiz|169
+how far is new york from here|169
+how far is home?|152|dist
+where am i?|152|where
+brady wants to know what time it is|76|shots
+music pause|151
+lets party|151
+lets party|151
+lets party|151
+lets party|151
+music pause|151
+lets party|151
+music next|151
+music pause|151
+quiet time|151
+play some quiet time music|151
+lets party|151
+lets party|151
+lets party|151
+lets party|151
+lets party|151
+exit|0
+x|0
+weather|75|overview
+how does tomorrow's weather look|75|tomorrow
+what time is it?|76|time
+where am i?|152|where
+height of obama|169
+play some tempo|151
+lets party|151
+music next|151
+hows my fantasy team doing?|167
+any news on "beckham"?|167
+how far is "denver" from here?|152|dist
+how long to get to "denver" from here?|152
+how far is home?|152|dist
+how many steps?|79|steps
+how many calories have i burned today?|79|calories
+music next|151
+music next|151
+music next|151
+music next|151
+music next|151
+play "black skinhead"|151
+x|0
+exit|0
+music play "black skinhead"|151
+play "movements"|151
+update songs|151
+play "movements"|151
+open facebook|10
+play "these worries"|151
+music play "amazing"|151
+music pause|151
+exit|0
+weather|75|overview
+how windy is it?|75|wind
+exit|0
+x|0
+open chrome|2
+open word|7
+open notepad++|3
+open visual studio|1
+exit|0
+open putty|4
+weather|75
+exit|0
+x|0
+open putty|4
+weather|75
+how tall is obama?|169
+how many people in us|169
+how many people in china|169
+how tall is lebron james|169
+height of empire state building|169
+people in china|169
+height of empire state building|169
+people in us|169
+how many people live in the us?|169
+play "black skinhead"|151
+play "black skinhead"|151
+play "amazing"|151
+lets party|151
+exit|0
+shot o'clock|151
+music next|151
+music next|151
+exit|0
+exit|0
+music next|151
+music next|151
+music next|151
+lets party!|151
+music next|151
+turn dreaming on|170
+turn dreaming off|170
+turn on dreaming|170
+go dark|170
+go quiet|170
+turn quiet mode on|170
+speak up|170
+start talking|170
+quiet mode off|170
+turn off quiet mode|170
+turn off dreaming|170
+turn on quiet mode|170
+lets party|151
+music next|151
+music next|151
+turn quiet mode off|170
+turn on quiet mode|170
+turn on quiet mode|170
+go quiet|170
+turn quiet mode off|170
+turn off quiet mode|170
+turn on quiet mode|170
+turn off quiet mode|170
+go quiet|170
+go quiet|170
+music next|151
+height of kobe bryant|169
+where am i?|152|where
+population of dubai|169
+population of new york city|169
+months in a year|169
+how many cups in a gallon?|169
+how many ounces in a gallon?|169
+speak up|170
+how many liters in a gallon?|169
+go dark|170
+how many pounds in a kilogram?|169
+how many grams in a kilogram?|169
+how many bytes in a gigabyte?|169
+height of usain bolt|169
+height and weight of usain bolt|169
+how tall is usain bolt?|169
+lets party|151
+turn quiet mode off|170
+lets party|151
+music next|151
+music next|151
+what time is it?|76|time
+where am i?|152|where
+how far is home?|152|dist
+when is sunset?|75|set
+what day is it?|76|day
+what's the date?|76|date
+hows the weather?|75|cond
+how cold is it outside?|75|temp
+weather|75|overview
+hows does tomorrow's weather look?|75|tomorrow
+what's the low today?|75|low
+is it raining?|75|cond
+is it sunny out?|75|cond
+how does my day look?|76|outlook
+outlook|77
+how many steps?|79|steps
+how many calories have i burned today?|79|calories
+how are the twins doing?|156
+any news on my team?|167
+i'm hungry|154|food
+i'm hungry for fast food|154|food
+how far away is "2508 delaware street minneapolis mn"|152|dist
+hows has my heart been?|79|heart
+who are you?|168
+what can you do?|168
+population of fargo nd|169
+largest city in us|169
+population of largest city in us|169
+go quiet|170
+population of largest city in us|169
+quiet mode on|170
+weather|75|overview
+how windy is it?|75|wind
+how cold is it?|75|temp
+weather tomorrow|75|tomorrow
+weather today|75|outlook
+weather today|75|outlook
+weather today|75|outlook
+weather today|75|outlook
+weather tomorrow|75|tomorrow
+how cold is it?|75|temp
+what is the high today?|75|high
+weather today|75|outlook
+what is the low today?|75|low
+tomorrow weather low|75|low
+tomorrow weather |75|tomorrow
+how windy is it?|75|wind
+how windy is it?|75|wind
+how humid is it?|75|humid
+is it raining?|75|cond
+where am i?|152|where
+what time is it?|76|time
+how far is home?|152|dist
+what are you?|168
+how many steps?|79
+any news on my team?|167
+fantasy news|167
+when is sunset?|75|set
+when did the sunrise?|75|rise
+how tall is kobe bryant|169
+how tall is anthony davis|169
+how tall is lebron james|169
+how much does lebron james weigh|169
+how much does obama weigh|169
+quiet mode on|170
+weather|75|overview
+weather tomorrow|75|tomorrow
+how windy is it?|75|wind
+when is sunset?|75|set
+when is sunrise?|75|rise
+lets party|151
+quiet mode off|170
+lets party|151
+next song|151
+next song|151
+weather|75
+weather|75
+weather|75
+weather|75
+weather|75
+weather|75
+weather|75
+weather|75
+weather|75
+weather tomorrow|75|tomorrow
+how windy is it?|75|wind
+how humid is it?|75|humid
+weather|75
+weather|75
+weather|75
+weather|75
+weather|75
+quiet mode on|170
+weather|75
+weather|75
+quiet mode off|170
+weather|75
+how windy is it?|75|wind
+how windy is it?|75|wind
+weather|75
+how windy is it?|75|wind
+weather|75
+how windy is it?|75|wind
+quiet mode off|170
+how windy is it?|75|wind
+how humid is it?|75|humid
+what time is it?|76|time
+where am i?|152|where
+any news on my team?|167
+fantasy news|167
+when is sunset?|75|set
+weather tomorrow|75|tomorrow
+what day is it?|76|day
+what's the date?|76|date
+how far is home?|152|dist
+how long would it take to get home?|152|time
+define "football"|166
+how tall is obama?|169
+how tall is obama?|169
+population of uganda|169|wolf
+population of zimbabwe|169|wolf
+population of zambia|169|wolf
+how big is zambia?|169|wolf
+how big is the us?|169|wolf
+population of new york|169
+population of new york|169
+population of new york|169
+population of fargo nd|169
+size of fargo nd|169
+weather|75
+is it snowing?|75|cond
+quiet mode on|170
+quiet mode off|170
+quiet mode on|170
+quiet mode on|170
+quiet mode off|170
+quiet mode on|170
+quiet mode on|170
+quiet mode off|170
+weather|75
+weather tomorow|75
+weather tomorrow|75|tomorrow
+quiet mode off|170
+exit|0
+weather|75
+where am i?|152|where
+what time is it?|76|time
+population of south korea|169|wolf
+south korean gdp|169|wolf
+united states gdp|169|wolf
+usa gdp per capita|169|wolf
+quiet mode on|170
+weather|75
+population of china|169|wolf
+size of russia|169|wolf
+what is the largest country in the world?|169|wolf
+weather|75
+how many steps?|79
+what time is it?|76|time
+what day is it?|76|day
+where am i?|152|where
+how far is home?|152|dist
+how windy is it?|75|wind
+weather tomorrow|75|tomorrow
+any news on my team?|167
+fantasy news|167
+open facebook|10
+how does my day look?|76|look_o
+what are you?|168
+what can you do?|168
+open google|16
+quiet mode off|170
+how windy is it?|75|wind
+how cold is it?|75|temp
+quiet mode on|170
+how far is home|152|dist
+how long to get home|152|time
+population of china|169|wolf
+gdp of china|169|wolf
+gdp of china versus gdp of us|169|wolf
+how big is russia?|169|wolf
+how windy is it|75
+how cold is it?|75
+how cold is it?|75
+how cold is it?|75
+weather|75
+weather tomorrow|75
+weather|75
+weather|75
+weather|75
+weather tomorrow|75
+exit|0
+x|0
+exit|0
+exit|0
+quiet mode on|170
+quiet mode on|170
+temp tomorrow|75
+quiet mode on|170
+temp tomorrow|75
+weather|75
+what is the high tomorrow|75
+what is the high tomorrow|75
+quiet mode on|170
+quiet mode on|170
+what is the high tomorrow|75
+what is tomorrow's high|75
+pronounce "kuda"|200
+pronounce "kuda"|200
+pronounce "kuda"|200
+pronounce "kuda"|200
+pronounce "kuda"|200
+say "it is pronounced kuda"|200
+say "you are idiots"|200
+say "you are all idiots"|200
+weather tomorrow|75
+weather|75
+exit|0
+how is the weather|75
+where am i|152
+any news on my team|167
+how is the weather|75
+what's it like outside|75
+what's the forecast look like|75
+how's the forecast look|75
+how far away is my home|152
+how long would it take to get home|152
+time to get home|152
+time to get home|152
+how much time would it take to get home|152
+time to get home|152
+where is work|152
+where is home|152
+where is the apartment|152
+how far is the apartment|152
+how far is work from home|152
+how far is work from apartment|152
+how long to get to work|152
+how warm is it|75
+is it cold outside|75
+play my tempo playlist|151
+lets get some beats going in here|151
+pause the song|151
+music resume|151
+play the song|151
+resume song|151
+let's worship|151
+let's dance!|151
+play some christmas music|151
+let's chill out|151
+time to study|151
+i want to chill out|151
+i'm feeling some worship|151
+play some alpha|151
+play alpha|151
+play my alpha playlist|151
+let's get some metal in here|151
+i want to listen to some bethel|151
+now lets listen to some hillsong|151
+let's hear some oldies|151
+play my shazam playlist|151
+let's jam out|151
+we want to dance!|151
+time of sunset|75
+how warm is it|75
+how cold is it outside|75
+is it raining|75
+how long would it take to get to work from here|152
+what state am I in|152
+what country am I in|152
+what country am I in|152
+lets get some piano music in here|151
+any new on julio jone|167
+any new on julio jone|167
+what year I it|76
+what year I it|76
+what year I it|76
+what year I it|76
+what year is it|76
+what month is it|76
+what is the year|76
+how many seconds are in a month|169
+how far is the nearest storm|75
+how cloudy will it be on saturday|75
+how windy will it be on saturday|75
+when is sunset on saturday|75
+when is sunrise on saturday|75
+how does visibility look for saturday|75
+how does the weather look this coming saturday|75
+what will the high be on saturday|75
+what will the low be on saturday|75
+will it rain on thursday|75
+how far away is the nearest storm from here|75
+how far is the nearest storm from here|75
+how close is the nearest storm from here|75
+is there any rain nearby|75
+is there any rain nearby|75
+is there any rain close to me|75

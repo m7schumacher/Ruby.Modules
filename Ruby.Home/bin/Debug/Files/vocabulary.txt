@@ -1,0 +1,118 @@
+weather|overview|it is currently [temp] degrees outside with a [wind] mile per hour wind and [humid] humidity.
+weather|overview|the forecast shows [cond] conditions today. It is currently [temp] degrees outside with a [wind] mile per hour wind and [humid] percent humidity.
+weather|today_temp|it is currently [temp] degrees outside
+weather|today_temp|the temp outside is [temp] degrees
+weather|today_temp|I'm seeing an outside temperature of [temp] degrees sir
+weather|today_temp|[temp] degrees sir
+weather|today_wind|there is currently a [wind] mile per hour wind coming from the [wind_direction].
+weather|today_wind|I am seeing a [wind] mile per hour wind coming from the [wind_direction] at the moment.
+weather|today_outlook|The high today looks to be about [high] with a low of [low] and a [fore_precip_chance] percent chance of [fore_precip_type]
+weather|today_outlook|I'm seeing a high of [high] today with a low of [low] and a [fore_precip_chance] percent chance of [fore_precip_type]
+weather|today_humid|The humidity appears to be at [humid] percent right now
+weather|today_humid|I'm seeing humidity of [humid] percent right now
+weather|today_humid|there is currently [humid] humidity
+weather|today_rise|sunrise occurs at [rise] this morning
+weather|today_rise|I'm seeing a [rise] sunrise this morning
+weather|today_set|sunset occurs at [set] this evening
+weather|today_set|I'm seeing a [set] sunset this evening
+weather|today_set|the sun will set at [set]
+weather|today_set|the sun sets at [set]
+weather|today_set|[set]
+weather|today_rise|[rise]
+weather|today_storm|the nearest storm is [storm_distance] miles to the [storm_direction] sir
+weather|today_storm|I'm seeing a storm [storm_distance] miles to the [storm_direction], but nothing closer sir
+weather|today_dewpoint|There is currently a dewpoint of [dewpoint]
+weather|today_visibility|There is currently [visibility] miles of visibility
+weather|today_cloudiness|I'm seeing [cloudiness] percent cloud cover right now sir
+weather|fore_outlook|I'm seeing high of [fore_high] next [fore_day] with a low of [fore_low] and [fore_precip]
+weather|fore_outlook|As of now there looks to be a high of [fore_high] next [fore_day] with a low of [fore_low] and [fore_precip]
+weather|fore_high|The high on [fore_day] looks to be [fore_high] degrees
+weather|fore_low|The low on [fore_day] looks to be [fore_low] degrees
+weather|fore_wind|I'm seeing a [fore_wind_speed] mile per hour wind from the [wind_direction] on [fore_day] 
+weather|fore_precip|As of now there is [fore_precip] on [fore_day]
+weather|fore_cloudiness|There looks to be [fore_cloudiness] percent cloud cover on [fore_day]
+weather|fore_rise|I'm seeing a [fore_sunrise] sunrise [fore_day] morning
+weather|fore_set|I'm seeing a [fore_sunset] sunset [fore_day] evening
+weather|fore_humid|There looks to be [fore_humid] percent humidity on [fore_day]
+greeting|hello|Hello sir
+greeting|hello|What can I do for you sir?
+greeting|hello|At your service
+calendar|outlook|you have a day today
+calendar|day|today is a [day]
+calendar|day|it is a [day] today
+calendar|date|today's date is [date]
+calendar|date|today is [date]
+calendar|date|[date]
+calendar|day|[day]
+calendar|year|[year] sir
+calendar|month|we are in [month] sir
+calendar|year|the year is [year]
+calendar|one|You have [one] event today
+calendar|one|You have only [one] event today
+calendar|one|there is only [one] event on your schedule today
+calendar|multi|There are [multi] events on your schedule today
+calendar|multi|You have [multi] events today
+calendar|multi|I am reading [multi] events for you today
+calendar|time|[time]
+calendar|shots|I believe it is shot o'clock
+calendar|first|Your first event today starts at [first]
+calendar|first|[first]
+calendar|first|The first event on your schedule starts at [first]
+calendar|look_o|You have [look_o]
+calendar|look_m|You have [look_m]
+calendar|zero|You have no events today
+calendar|zero|There are no events scheduled for you today
+calendar|zero|I am not seeing any events today
+map|gen|The trip looks to be [dist] miles and should take [hours] hours and [minutes] minutes
+map|time|[hours] hours and [minutes] minutes
+map|time|It appears that would take [hours] hours and [minutes] minutes
+map|time_min|It appears that would take [minutes] minutes
+map|time_min|[minutes] minutes
+map|dist|[dist] miles from here
+map|dist|A quick look shows it to be [dist] miles away
+map|where|[current]
+map|where|You are at [current]
+map|target|[target]
+map|target|it is at [target]
+map|zipcode|Your current zipcode is [zipcode]
+map|state|You are currently in [state]
+map|country|[country]
+map|city|You are currently located in [city]
+yelp|distance|the nearest [name] is [dist] miles away at [address]
+yelp|gen|the nearest result is [name] [dist] miles away at [address]
+yelp|gen|there is a [name] [dist] miles away at [address]
+yelp|gen_name|the nearest result is a [name]
+yelp|gen_address|the nearest result is a [name] located at [address]
+yelp|gen_number|the nearest result is a [name], it's number is [number]
+yelp|gen_web|the nearest result is a [name], it's website is [url]
+yelp|food|the nearest restaurant is a [name] [dist] miles away
+yelp|food|there is a [name] [dist] miles away located at [address]
+yelp|food|there is a [name] [dist] miles away
+yelp|gas|the nearest gas station is a [name] [dist] miles away at [address]
+yelp|gas|there is a [name] [dist] miles away at [address]
+bible|verse|[book] [chapter] [number], [verse]
+scores|future_basic|The [team] are [place] against the [opponent] today at [time]
+scores|future_opp|The [team] are [place] against the [opponent] today at [time]
+scores|future_pitch|[pitcher] is pitching for the [team] today
+scores|future_opp|The [team] play [place] against the [opponent] today
+scores|future_opp|They are [place] against the [opponent]
+scores|future_time|The [team] play at [time] today
+scores|future_place|They play [place] against the [opponent]
+scores|finished_winner|The [winner] beat the [loser] [wScore] to [lScore] today
+scores|finished_loser|The [loser] lost to the [winner] [wScore] to [lScore] today
+scores|current_tied|The [team] are currently tied [theScore] to [oppScore] with the [opponent] in the [stInning] of the [inning]
+scores|current_losing|The [team] are down to the [opponent] [oppScore] to [theScore] in the [stInning] of the [inning]
+scores|current_winning|The [team] are beating the [opponent] [theScore] to [oppScore] in the [stInning] of the [inning]
+fitbit|steps|You have taken [steps] steps today
+fitbit|sleep|You slept for [sleep] last night
+fitbit|activity|You have been active for [activity] minutes today
+fitbit|calories|You have burned [calories] calories today
+fitbit|distance|You have walked a total of [distance] miles today
+fitbit|report|You have taken [steps] steps today for a distance of [distance] miles and have burned [calories] calories across [activity] active minutes
+fitbit|report|You have walked [distance] miles today in [steps] steps and have burned [calories] calories in [activity] active minutes
+ffb|random|[random]
+ffb|team_multi|[first] and... [second]
+ffb|team|[first]
+ffb|team_none|There does not appear to be any news on your team sir
+ffb|random_player|[story]
+ffb|random_player_none|I'm not seeing any news on [player]

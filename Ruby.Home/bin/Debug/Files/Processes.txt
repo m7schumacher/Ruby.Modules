@@ -1,0 +1,175 @@
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\notepad++.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\putty.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\WinSCP\WinSCP.exe
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+Atlas.Killer_TCell-C:\Program Files\RStudio\bin\rstudio.exe
+Atlas.Killer_TCell-http://facebook.com
+Atlas.Killer_TCell-http://espn.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\POWERPNT.EXE
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.3.101.gbfa97dfe-48.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Roaming\Spotify\Spotify.exe
+Atlas.Killer_TCell-http://drive.google.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\WINWORD.EXE
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Documents\Visual Studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-https://bb.ndsu.nodak.edu
+Atlas.Killer_TCell-https://ndsu.edu
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.4.90.g0b6df40b-9.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\WerFault.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\Data_Generator\Data_Generator\bin\Debug\Data_Generator.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\Fall Semester 2014\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\VS2013.4.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\msiexec.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\updater\gup.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Update\GoogleUpdate.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Temp\is-5MTDJ.tmp\chromecast-app-1.5.1383.0.tmp
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Chromecast\ChromecastApp.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\cmd.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\notepad++.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\putty.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\WinSCP\WinSCP.exe
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+Atlas.Killer_TCell-C:\Program Files\RStudio\bin\rstudio.exe
+Atlas.Killer_TCell-http://facebook.com
+Atlas.Killer_TCell-http://espn.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\POWERPNT.EXE
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.3.101.gbfa97dfe-48.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Roaming\Spotify\Spotify.exe
+Atlas.Killer_TCell-http://drive.google.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\WINWORD.EXE
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Documents\Visual Studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-https://bb.ndsu.nodak.edu
+Atlas.Killer_TCell-https://ndsu.edu
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.4.90.g0b6df40b-9.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\WerFault.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\Data_Generator\Data_Generator\bin\Debug\Data_Generator.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\Fall Semester 2014\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\VS2013.4.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\msiexec.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\updater\gup.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Update\GoogleUpdate.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Temp\is-5MTDJ.tmp\chromecast-app-1.5.1383.0.tmp
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Chromecast\ChromecastApp.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\cmd.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\notepad++.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\putty.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\WinSCP\WinSCP.exe
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+Atlas.Killer_TCell-C:\Program Files\RStudio\bin\rstudio.exe
+Atlas.Killer_TCell-http://facebook.com
+Atlas.Killer_TCell-http://espn.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\POWERPNT.EXE
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.3.101.gbfa97dfe-48.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Roaming\Spotify\Spotify.exe
+Atlas.Killer_TCell-http://drive.google.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\WINWORD.EXE
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Documents\Visual Studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-https://bb.ndsu.nodak.edu
+Atlas.Killer_TCell-https://ndsu.edu
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.4.90.g0b6df40b-9.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\WerFault.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\Data_Generator\Data_Generator\bin\Debug\Data_Generator.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\Fall Semester 2014\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\VS2013.4.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\msiexec.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\updater\gup.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Update\GoogleUpdate.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Temp\is-5MTDJ.tmp\chromecast-app-1.5.1383.0.tmp
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Chromecast\ChromecastApp.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\cmd.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\notepad++.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\putty.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\WinSCP\WinSCP.exe
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+Atlas.Killer_TCell-C:\Program Files\RStudio\bin\rstudio.exe
+Atlas.Killer_TCell-http://facebook.com
+Atlas.Killer_TCell-http://espn.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\POWERPNT.EXE
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.3.101.gbfa97dfe-48.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Roaming\Spotify\Spotify.exe
+Atlas.Killer_TCell-http://drive.google.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\WINWORD.EXE
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Documents\Visual Studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-https://bb.ndsu.nodak.edu
+Atlas.Killer_TCell-https://ndsu.edu
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.4.90.g0b6df40b-9.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\WerFault.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\Data_Generator\Data_Generator\bin\Debug\Data_Generator.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\Fall Semester 2014\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\VS2013.4.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\msiexec.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\updater\gup.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Update\GoogleUpdate.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Temp\is-5MTDJ.tmp\chromecast-app-1.5.1383.0.tmp
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Chromecast\ChromecastApp.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\cmd.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\notepad++.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\putty.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\WinSCP\WinSCP.exe
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\EXCEL.EXE
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\root\office15\WINWORD.EXE
+Atlas.Killer_TCell-C:\Program Files\RStudio\bin\rstudio.exe
+Atlas.Killer_TCell-http://facebook.com
+Atlas.Killer_TCell-http://espn.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\POWERPNT.EXE
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.3.101.gbfa97dfe-48.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Roaming\Spotify\Spotify.exe
+Atlas.Killer_TCell-http://drive.google.com
+Atlas.Killer_TCell-C:\Program Files\Microsoft Office 15\Root\Office15\WINWORD.EXE
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Documents\Visual Studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-https://bb.ndsu.nodak.edu
+Atlas.Killer_TCell-https://ndsu.edu
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Spotify\Update\spotify_installer-1.0.4.90.g0b6df40b-9.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\WerFault.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\FileConverter\FileConverter\bin\Debug\FileConverter.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\documents\visual studio 2013\Projects\KMeans_Serial\Debug\KMeans_Serial.exe
+Atlas.Killer_TCell-c:\users\mschuee\documents\visual studio 2013\Projects\Data_Generator\Data_Generator\bin\Debug\Data_Generator.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\Fall Semester 2014\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.vshost.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Desktop\FantasyFootball.cs\FantasyFootball.cs\FantasyFootball.cs\bin\Debug\FantasyFootball.cs.exe
+Atlas.Killer_TCell-C:\Users\mschuee\Downloads\VS2013.4.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\msiexec.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Notepad++\updater\gup.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Update\GoogleUpdate.exe
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Temp\is-5MTDJ.tmp\chromecast-app-1.5.1383.0.tmp
+Atlas.Killer_TCell-C:\Users\mschuee\AppData\Local\Google\Chromecast\ChromecastApp.exe
+Atlas.Killer_TCell-C:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+Atlas.Killer_TCell-C:\WINDOWS\SysWOW64\cmd.exe

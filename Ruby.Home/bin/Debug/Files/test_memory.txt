@@ -1,0 +1,10 @@
+how windy is it?-75
+how cold is it?-75
+what time is it?-71
+where am I?-12
+how does my day look?-74
+is it cold outside?-75
+how humid is it?-75
+what is the temperature outside?-75
+what is the weather like?-75
+what does my day look like?-75
