@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ruby.Muscle.Muscles
+namespace Ruby.Movements.Muscles
 {
     public class Node
     {

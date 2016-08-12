@@ -10,7 +10,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Bible : Answer
     {

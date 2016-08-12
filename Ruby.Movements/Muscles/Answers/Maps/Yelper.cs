@@ -16,7 +16,7 @@ using YelpSharp.Data.Options;
 using System.Diagnostics;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Yelper : Answer
     {
@@ -61,9 +61,9 @@ namespace Ruby.Muscle
             yelper = new Yelp(options);   
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "{} is the nearest ||", new string[] { "where", "how far" } },
                 { "I'm hungry for some {}", new string[] { "fast food", "good food" } },

@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class FantasyFootballNews : Answer
     {
@@ -54,9 +54,9 @@ namespace Ruby.Muscle
             DefaultSpec = "random";
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "any news on {}", MyTeam },
             };

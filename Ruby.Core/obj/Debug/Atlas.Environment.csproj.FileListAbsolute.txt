@@ -13,3 +13,14 @@ C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environm
 C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\bin\Debug\RestSharp.xml
 C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\obj\Debug\Atlas.Environment.dll
 C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\obj\Debug\Atlas.Environment.pdb
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\Atlas.Environment.dll
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\Atlas.Environment.pdb
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\RestSharp.dll
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\Forecast.io.45.dll
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\Swiss.pdb
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\Swiss.API.pdb
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\bin\Debug\RestSharp.xml
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\obj\Debug\Atlas.Environment.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\obj\Debug\Atlas.Environment.dll
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Core\obj\Debug\Atlas.Environment.pdb

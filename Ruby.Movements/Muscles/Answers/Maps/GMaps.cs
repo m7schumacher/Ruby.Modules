@@ -6,7 +6,7 @@ using Google.Maps.Direction;
 using Swiss;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class GMaps : Answer
     {
@@ -21,9 +21,9 @@ namespace Ruby.Muscle
             Spec = "where";
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "what is my current {}", new string[] { "location", "address" } },
                 { "where is {}", new string[] { "home", "work", "the apartment" } },

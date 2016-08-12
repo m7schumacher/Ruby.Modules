@@ -4,8 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Swiss;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal abstract class Response
     {
@@ -15,7 +16,8 @@ namespace Ruby.Muscle
 
         public bool Enabled { get; set; }
 
-        public Dictionary<string, string[]> Recognizers { get; protected set; }
+        public List<Phrase> RecognizedPhrases { get; protected set; }
+        public List<Phrase> Vocabulary { get; protected set; }
 
         public Response()
         {
@@ -25,7 +27,7 @@ namespace Ruby.Muscle
 
             KeyWords = new string[] { };
 
-            EstablishRecognizers();
+            GenerateRecognizedPhrases();
         }
 
         public virtual void Initialize() { }
@@ -34,6 +36,11 @@ namespace Ruby.Muscle
         protected void Disable() { Enabled = false; }
 
         public abstract string Execute();
-        public abstract void EstablishRecognizers();
+        public abstract void GenerateRecognizedPhrases();
+
+        public override string ToString()
+        {
+            return Name;
+        }
     }
 }

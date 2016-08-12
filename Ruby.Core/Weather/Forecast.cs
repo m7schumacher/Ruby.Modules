@@ -5,7 +5,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class Forecast
     {

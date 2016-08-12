@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class News : Answer
     {

@@ -7,7 +7,7 @@ using System.Reflection;
 using System.Configuration;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Configurer : Reflex
     {
@@ -24,9 +24,9 @@ namespace Ruby.Muscle
             learn = new string[] { "start learning", "stop learning" };
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "go {}", new string[] { "dark", "quiet", "silent" } },
                 { "start {}", new string[] { "learning", "listening" } },

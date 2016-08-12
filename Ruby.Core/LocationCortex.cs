@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Timers;
 using System.Xml.Linq;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class LocationCortex
     {

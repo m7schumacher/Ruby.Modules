@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.Timers;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class MachineCortex
     {

@@ -7,7 +7,7 @@ using System.Diagnostics;
 using System.Xml.Serialization;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Fitbit : Answer
     {
@@ -52,9 +52,9 @@ namespace Ruby.Muscle
             }
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "tell me my {} today", new string[] { "footsteps", "calories", "distance traveled", "sleep", "activity" } },
                 { "how many {} have I || today", new string[] { "steps", "footsteps", "calories", "miles", "hours" } },

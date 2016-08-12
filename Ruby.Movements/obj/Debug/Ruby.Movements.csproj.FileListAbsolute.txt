@@ -25,3 +25,11 @@ C:\Atlas\Atlas.Muscle\bin\Debug\Swiss.API.pdb
 C:\Atlas\Atlas.Muscle\obj\Debug\Ruby.Movements.csprojResolveAssemblyReference.cache
 C:\Atlas\Atlas.Muscle\obj\Debug\Ruby.Muscle.dll
 C:\Atlas\Atlas.Muscle\obj\Debug\Ruby.Muscle.pdb
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\obj\Debug\Ruby.Movements.csprojResolveAssemblyReference.cache
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Movements.dll.config
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Movements.dll
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Movements.pdb
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Core.dll
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Core.pdb
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\obj\Debug\Ruby.Movements.dll
+C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Movements\obj\Debug\Ruby.Movements.pdb

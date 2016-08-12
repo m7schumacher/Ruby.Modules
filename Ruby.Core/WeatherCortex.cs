@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Timers;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class WeatherCortex
     {

@@ -11,7 +11,7 @@ using Swiss;
 using Swiss.Web;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class WordDefiner : Answer
     {

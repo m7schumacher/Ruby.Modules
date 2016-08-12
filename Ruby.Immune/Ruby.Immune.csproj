@@ -95,7 +95,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\Ruby.Core.csproj">
+    <ProjectReference Include="..\Ruby.Core\Ruby.Core.csproj">
       <Project>{770475a7-78f7-4935-bb9b-8fd42c5c0112}</Project>
       <Name>Ruby.Core</Name>
     </ProjectReference>

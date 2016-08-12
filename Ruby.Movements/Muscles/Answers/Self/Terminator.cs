@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Terminator : Reflex
     {

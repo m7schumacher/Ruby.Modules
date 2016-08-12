@@ -8,7 +8,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Scores : Answer
     {
@@ -64,7 +64,7 @@ namespace Ruby.Muscle
             Spec = "future";
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
             List<string> MLBNames = new List<string>();
 
@@ -76,7 +76,7 @@ namespace Ruby.Muscle
                 MLBNames.Add(bits[1]);
             }
 
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "do the {} play", MLBNames.ToArray() },
                 { "who pitches for the {}", MLBNames.ToArray() },

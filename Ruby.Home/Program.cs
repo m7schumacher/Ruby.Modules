@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Atlas.Mind;
-using Atlas.Internal;
+using Ruby.Mind;
+using Ruby.Internal;
 
 namespace Atlas.Home
 {
@@ -21,6 +21,9 @@ namespace Atlas.Home
             });
 
             while (Core.Internal.State != Hypothalmus.States.Ready) { }
+
+            SpeechRecognizer recog = new SpeechRecognizer();
+            recog.Initialize();
 
             while (true)
             {

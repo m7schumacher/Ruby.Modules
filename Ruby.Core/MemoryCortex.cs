@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class Command
     {

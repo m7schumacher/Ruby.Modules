@@ -49,8 +49,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\packages\Swiss.1.0.0.2\lib\net452\Swiss.dll</HintPath>
     </Reference>
-    <Reference Include="Swiss.API">
-      <HintPath>..\..\DLLs\Swiss.API.dll</HintPath>
+    <Reference Include="Swiss.API, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Swiss\Swiss.API\bin\Debug\Swiss.API.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -77,15 +78,15 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\Ruby.Core.csproj">
+    <ProjectReference Include="..\Ruby.Core\Ruby.Core.csproj">
       <Project>{770475a7-78f7-4935-bb9b-8fd42c5c0112}</Project>
       <Name>Ruby.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Atlas.Immune\Ruby.Immune.csproj">
+    <ProjectReference Include="..\Ruby.Immune\Ruby.Immune.csproj">
       <Project>{68e0e387-9bcc-4fce-af6e-09b94bba8d89}</Project>
       <Name>Ruby.Immune</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Atlas.Muscle\Ruby.Movements.csproj">
+    <ProjectReference Include="..\Ruby.Movements\Ruby.Movements.csproj">
       <Project>{33721cd2-afbb-4243-95a1-42d7e86bc77c}</Project>
       <Name>Ruby.Movements</Name>
     </ProjectReference>
