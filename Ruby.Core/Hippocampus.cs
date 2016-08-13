@@ -6,7 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Swiss;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class Hippocampus
     {

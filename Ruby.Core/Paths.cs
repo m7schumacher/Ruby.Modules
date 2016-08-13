@@ -6,7 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class Paths
     {

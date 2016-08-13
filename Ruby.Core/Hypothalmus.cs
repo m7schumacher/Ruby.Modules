@@ -7,7 +7,7 @@ using System.IO;
 using System.Threading;
 using Swiss;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class Hypothalmus
     {

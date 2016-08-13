@@ -7,7 +7,7 @@ using SpotifyAPI.Local;
 using SpotifyAPI.Local.Enums;
 using SpotifyAPI.Local.Models;
 
-namespace Atlas.Internal
+namespace Ruby.Internal
 {
     public class MusicCortex
     {

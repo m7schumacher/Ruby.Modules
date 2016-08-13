@@ -25,3 +25,13 @@ C:\Atlas\Atlas.Muscle\bin\Debug\Swiss.API.pdb
 C:\Atlas\Atlas.Muscle\obj\Debug\Ruby.Movements.csprojResolveAssemblyReference.cache
 C:\Atlas\Atlas.Muscle\obj\Debug\Ruby.Muscle.dll
 C:\Atlas\Atlas.Muscle\obj\Debug\Ruby.Muscle.pdb
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\obj\Debug\Ruby.Movements.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\obj\Debug\Ruby.Muscle.dll
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\obj\Debug\Ruby.Muscle.pdb
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Muscle.dll.config
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Muscle.dll
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Muscle.pdb
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Core.dll
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Ruby.Core.pdb
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Movements\bin\Debug\Newtonsoft.Json.xml

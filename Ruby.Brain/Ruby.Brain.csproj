@@ -31,13 +31,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Microsoft.Kinect, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+    <Reference Include="Microsoft.Kinect, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\Atlas\bin\Debug\DLLs\Microsoft.Kinect.dll</HintPath>
+      <HintPath>bin\Debug\Microsoft.Kinect.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\packages\Newtonsoft.Json.8.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\documents\visual studio 2015\Projects\Ruby.Modules\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="RestSharp">
       <HintPath>..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\packages\RestSharp.105.2.3\lib\net452\RestSharp.dll</HintPath>
@@ -74,18 +74,19 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\Ruby.Core.csproj">
+    <ProjectReference Include="..\Ruby.Core\Ruby.Core.csproj">
       <Project>{770475a7-78f7-4935-bb9b-8fd42c5c0112}</Project>
       <Name>Ruby.Core</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Atlas.Immune\Ruby.Immune.csproj">
+    <ProjectReference Include="..\Ruby.Immune\Ruby.Immune.csproj">
       <Project>{68e0e387-9bcc-4fce-af6e-09b94bba8d89}</Project>
       <Name>Ruby.Immune</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Atlas.Muscle\Ruby.Movements.csproj">
+    <ProjectReference Include="..\Ruby.Movements\Ruby.Movements.csproj">
       <Project>{33721cd2-afbb-4243-95a1-42d7e86bc77c}</Project>
       <Name>Ruby.Movements</Name>
     </ProjectReference>

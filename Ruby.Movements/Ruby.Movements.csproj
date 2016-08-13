@@ -59,9 +59,9 @@
       <HintPath>..\Atlas\bin\Debug\DLLs\Google.Maps.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic" />
-    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Newtonsoft.Json.8.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\documents\visual studio 2015\Projects\Ruby.Modules\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -139,7 +139,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Environment\Ruby.Core.csproj">
+    <ProjectReference Include="..\Ruby.Core\Ruby.Core.csproj">
       <Project>{770475a7-78f7-4935-bb9b-8fd42c5c0112}</Project>
       <Name>Ruby.Core</Name>
     </ProjectReference>
