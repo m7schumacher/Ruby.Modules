@@ -1,5 +1,5 @@
 ﻿using Ruby.Internal;
-using Ruby.Muscle.Muscles.Muscles.Math;
+using Ruby.Movements.Muscles.Muscles.Math;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Forms;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Calculator : Reflex
     {

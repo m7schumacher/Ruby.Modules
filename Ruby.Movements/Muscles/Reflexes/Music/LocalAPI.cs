@@ -9,7 +9,7 @@ using SpotifyAPI.Local.Models;
 using System.Windows.Forms;
 using Ruby.Internal;
 
-namespace Ruby.Muscle.Music
+namespace Ruby.Movements.Music
 {
     public class LocalAPI
     {
@@ -37,8 +37,8 @@ namespace Ruby.Muscle.Music
 
         private void _spotify_OnTrackChange(object sender, TrackChangeEventArgs e)
         {
-            UpdateTrack(e.NewTrack);
             Core.Music.UpdateCurrentSong(e.NewTrack);
+            UpdateTrack(e.NewTrack);
         }
 
         public void Connect()
@@ -127,6 +127,16 @@ namespace Ruby.Muscle.Music
         public string CurrentSongString()
         {
             return String.Format("This is {0} by {1}", _currentTrack.TrackResource.Name, _currentTrack.ArtistResource.Name);
+        }
+
+        public string CurrentSongName()
+        {
+            return _currentTrack.TrackResource.Name;
+        }
+
+        public string CurrentSongArtist()
+        {
+            return _currentTrack.ArtistResource.Name;
         }
     }
 }

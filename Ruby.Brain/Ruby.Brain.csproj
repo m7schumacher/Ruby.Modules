@@ -49,8 +49,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\packages\Swiss.1.0.0.2\lib\net452\Swiss.dll</HintPath>
     </Reference>
-    <Reference Include="Swiss.API">
-      <HintPath>..\..\DLLs\Swiss.API.dll</HintPath>
+    <Reference Include="Swiss.API, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Swiss\Swiss.API\bin\Debug\Swiss.API.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

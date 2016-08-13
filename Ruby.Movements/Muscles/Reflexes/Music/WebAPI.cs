@@ -14,7 +14,7 @@ using Swiss;
 using Newtonsoft.Json;
 using Ruby.Internal;
 
-namespace Ruby.Muscle.Music
+namespace Ruby.Movements.Music
 {
     public class WebAPI
     {

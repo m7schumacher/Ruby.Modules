@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Ruby.Muscle;
+using Ruby.Movements;
 using Ruby.Internal;
 
 namespace Ruby.Mind
@@ -20,7 +20,6 @@ namespace Ruby.Mind
         public override void InitializeValues()
         {
             Muscle = new MuscleGate();
-            GatherCommands();
         }
 
         public string React(string key)

@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Reflex : Response
     {
@@ -34,6 +34,6 @@ namespace Ruby.Muscle
             return string.Empty;
         }
 
-        public override void EstablishRecognizers() { }
+        public override void GenerateRecognizedPhrases() { }
     }
 }

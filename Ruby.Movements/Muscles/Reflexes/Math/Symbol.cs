@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ruby.Muscle.Muscles.Muscles.Math
+namespace Ruby.Movements.Muscles.Muscles.Math
 {
     public class Symbol
     {

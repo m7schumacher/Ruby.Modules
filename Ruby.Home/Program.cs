@@ -22,6 +22,9 @@ namespace Atlas.Home
 
             while (Core.Internal.State != Hypothalmus.States.Ready) { }
 
+            SpeechRecognizer recog = new SpeechRecognizer();
+            recog.Initialize();
+
             while (true)
             {
                 string input = Console.ReadLine();

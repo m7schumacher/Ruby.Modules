@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Swiss;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal abstract class Answer : Response
     {
@@ -100,7 +100,7 @@ namespace Ruby.Muscle
             Values = new Dictionary<string, string>();
         }
 
-        public override void EstablishRecognizers() 
+        public override void GenerateRecognizedPhrases() 
         { 
         
         }

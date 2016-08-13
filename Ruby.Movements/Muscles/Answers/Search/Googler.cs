@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ruby.Muscle{
+namespace Ruby.Movements{
     internal class Googler : Reflex
     {
         public Googler() : base()

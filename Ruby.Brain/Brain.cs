@@ -15,7 +15,7 @@ using System.Threading;
 using System.Runtime.InteropServices;
 using Ruby.Internal;
 using Swiss;
-using Ruby.Muscle;
+using Ruby.Movements;
 
 namespace Ruby.Mind
 {
@@ -51,16 +51,7 @@ namespace Ruby.Mind
 
             Senses.Immune.Initialize(true);
 
-            if (Core.Internal.IsConnectedToSpotify)
-            {
-                foreach (string song in MotorCortex.Muscle.GetSongsFromSpotify())
-                {
-                    Core.Memory.Commands.Add(new Command() { Text = "play " + song.TrimPunctuation(), ID = "151" });
-                }
-            }
-
-            //SpeechRecognizer recog = new SpeechRecognizer();
-            //recog.Initialize();
+            Motor.GatherCommands();
 
             Console.WriteLine("Listening!");
 
@@ -70,6 +61,17 @@ namespace Ruby.Mind
             Console.WriteLine("\n\n\nRuby is now ready:\n\n\n");
 
             Core.Internal.State = Hypothalmus.States.Ready;
+        }
+
+        private static void GatherCommands()
+        {
+            if (Core.Internal.IsConnectedToSpotify)
+            {
+                foreach (string song in MotorCortex.Muscle.GetSongsFromSpotify())
+                {
+                    Core.Memory.Commands.Add(new Command() { Text = "play " + song.TrimPunctuation(), ID = "151" });
+                }
+            }
         }
 
         public static void FireUp()
@@ -84,9 +86,20 @@ namespace Ruby.Mind
 
         public static void Process(string input)
         {
-            var key = Senses.Process(input);
-            var response = Motor.React(key);
+            string response = string.Empty;
 
+            try
+            {
+                input = input.StartsWith("ruby") ? input.Remove("ruby").Trim() : input.Trim();
+
+                var key = Senses.Process(input);
+                response = Motor.React(key);
+            }
+            catch(Exception e)
+            {
+                response = "I encountered an error sir";
+            }
+            
             Language.Speak(response, Core.Internal.isQuiet);
         }
     }

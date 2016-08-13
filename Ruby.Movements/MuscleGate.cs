@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Swiss;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     public class MuscleGate
     {
@@ -52,9 +52,9 @@ namespace Ruby.Muscle
         {
             Dictionary<string, Dictionary<string, string[]>> recogs = new Dictionary<string, Dictionary<string, string[]>>();
 
-            foreach(Response resp in Skills.Responses.Where(rep => rep.Recognizers != null))
+            foreach(Response resp in Skills.Responses.Where(rep => rep.RecognizedPhrases != null))
             {
-                recogs.Add(resp.ID, resp.Recognizers);
+                recogs.Add(resp.ID, resp.RecognizedPhrases);
             }
 
             return recogs;

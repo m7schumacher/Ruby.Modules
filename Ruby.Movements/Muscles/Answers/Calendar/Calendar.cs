@@ -12,7 +12,7 @@ using System.Security.Cryptography.X509Certificates;
 using Google.Apis.Calendar.v3.Data;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Calendar : Answer
     {
@@ -64,9 +64,9 @@ namespace Ruby.Muscle
             //}
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "what {} is it", new string[] { "day", "time", "month", "year" } },
                 { "what is the {}", new string[] { "day", "time", "month", "year" } },

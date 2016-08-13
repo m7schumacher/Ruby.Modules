@@ -13,8 +13,21 @@ using Newtonsoft.Json.Linq;
 using Swiss;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
+    internal class Layer
+    {
+        public string ID { get; set; }
+        public List<string> KeyWords { get; set; }
+
+        public Layer(params string[] args)
+        {
+            KeyWords.AddRange(args);
+        }
+
+
+    }
+
     internal class Weather : Answer
     {
         public Weather() : base()
@@ -26,9 +39,9 @@ namespace Ruby.Muscle
             DefaultSpec = "today";
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "what is the {} outside", new string[] { "temp", "temperature", "wind", "humidity", "weather", "windchill" } },
                 { "how {} is it", new string[] { "cold", "warm", "hot", "windy", "humid", "rainy" } },

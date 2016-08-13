@@ -10,13 +10,19 @@ using System.IO;
 using System.Collections;
 using System.Collections.Generic;
 using Ruby.Internal;
+using System.Threading.Tasks;
+using System.Threading;
 
 namespace Ruby.Mind
 {
     public class SpeechRecognizer
     {
+        private const double MINIMUM_CONFIDENCE = .7;
+
         private SpeechRecognitionEngine kinectEngine;
         private KinectSensor Kinect;
+
+        private KinectAudioSource AudioSource;
 
         bool ready;
 
@@ -66,7 +72,7 @@ namespace Ruby.Mind
                 {
                     InitializeKinectSensor();
                     InitializeKinectEngine();
-                    Start();
+                    Task.Factory.StartNew(() => Start());
                 }
             }
         }
@@ -121,11 +127,21 @@ namespace Ruby.Mind
         public Grammar GenerateGrammar()
         {
             Choices words = new Choices();
+            words.Add("Hello Ruby");
+            words.Add("Ruby weather");
 
-            List<string> keys = new List<string>() { "Hello Ruby", "Ruby", "silent", "sleep", "yes", "desktop" };
+            List<string> keys = new List<string>() { "Hello Ruby", "silent", "sleep", "yes", "desktop" };
             keys.ForEach((key) => words.Add(key));
 
-            Core.Memory.Commands.ForEach((cm) => words.Add(cm.Text.TrimCharactersWithin(new char[] { '"', '\'' })));
+            var targetCommands = Core.Memory.Commands.Where(cm => cm.Text.StartsWithIgnoreCase("play some")).ToList();
+
+            foreach(var command in Core.Memory.Commands)
+            {
+                string formattedCommand = command.Text.TrimCharactersWithin(new char[] { '"', '\'' });
+                formattedCommand = "ruby " + formattedCommand;
+
+                words.Add(formattedCommand);
+            }
 
             GrammarBuilder build = new GrammarBuilder();
             build.Append(words);
@@ -137,28 +153,29 @@ namespace Ruby.Mind
 
         private void Start()
         {
-            var audioSource = Kinect.AudioSource;
-            audioSource.BeamAngleMode = BeamAngleMode.Adaptive;
-            var kinectStream = audioSource.Start();
+            AudioSource = Kinect.AudioSource;
+            AudioSource.BeamAngleMode = BeamAngleMode.Adaptive;
+            var kinectStream = AudioSource.Start();
 
             SpeechAudioFormatInfo inf = new SpeechAudioFormatInfo(EncodingFormat.Pcm, 16000, 16, 1, 32000, 2, null);
             kinectEngine.SetInputToAudioStream(kinectStream, inf);
             kinectEngine.RecognizeAsync(RecognizeMode.Multiple);
+
+            Kinect.AudioSource.EchoCancellationMode = EchoCancellationMode.None;
+            Kinect.AudioSource.AutomaticGainControlEnabled = false;
         }
 
         [DllImport("Powrprof.dll", CharSet = CharSet.Auto, ExactSpelling = true)]
         public static extern bool SetSuspendState(bool hiberate, bool forceCritical, bool disableWakeEvent);
         private void Execute_Command(string comm, double confidence)
         {
-            if (comm.ToLower().Contains("hello Ruby"))
+            if (comm.ContainsIgnoreCase("hello Ruby"))
             {
                 if (!listening)
                 {
                     listening = true;
-                    SpeechUtility.SpeakText("Hello sir", Core.Internal.isQuiet);
+                    Brain.Language.Speak("Hello sir", Core.Internal.isQuiet);
                 }
-
-                kinectEngine.RequestRecognizerUpdate();
             }
             else if (listening)
             {
@@ -166,21 +183,16 @@ namespace Ruby.Mind
                 {
                     SpeechUtility.SpeakText("Here sir", Core.Internal.isQuiet);
                 }
-                else if (comm.Equals("silent"))
-                {
-                    listening = false;
-                    SpeechUtility.SpeakText("Going silent", Core.Internal.isQuiet);
-                }
-                else if (comm.Equals("yes"))
-                {
-                    if (sleeping) { SetSuspendState(false, true, true); }
-                }
                 else
                 {
                     Brain.Process(comm);
                     kinectEngine.RequestRecognizerUpdate();
                 }
             }
+
+            Console.WriteLine(comm);
+
+            kinectEngine.RequestRecognizerUpdate();
         }
 
         public void DisableRecognition()
@@ -191,32 +203,41 @@ namespace Ruby.Mind
         public void EnableRecognition()
         {
             kinectEngine.SpeechRecognized += SpeechRecognized;
+            kinectEngine.SpeechHypothesized += KinectEngine_SpeechHypothesized;
+        }
+
+        private void KinectEngine_SpeechHypothesized(object sender, SpeechHypothesizedEventArgs e)
+        {
+            Brain.Language.Speak("I am hypothesizing that you said " + e.Result.ToString(), false);
         }
 
         private void SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
         {
+            speaking = true;
+
             double confidence = e.Result.Confidence;
             string text = e.Result.Text;
 
             if(!text.EqualsIgnoreCase("hello Ruby"))
             {
-                if (text.Length < 6 || !text.StartsWith("Ruby"))
+                if (text.Length < 6 || !text.StartsWithIgnoreCase("Ruby"))
                 {
-                    kinectEngine.RequestRecognizerUpdate();
+                    //kinectEngine.RequestRecognizerUpdate();
                     return;
                 }
 
-                text = text.Substring(6);
+                text = text.Substring("Ruby".Length).Trim();
             }
 
-            if (confidence >= .65)
+            if (confidence >= MINIMUM_CONFIDENCE)
             {
                 Execute_Command(text, confidence);
+                Console.WriteLine(text);
             }
             else
             {
                 string conf = Math.Round(confidence * 100, 2).ToString();
-                Swiss.SpeechUtility.SpeakText("I hear " + text + " at " + conf + " confidence", false);
+                string output = string.Format("I am {0} percent sure you are saying {1}, but not sure enough", conf, text);
             }
         }
     }

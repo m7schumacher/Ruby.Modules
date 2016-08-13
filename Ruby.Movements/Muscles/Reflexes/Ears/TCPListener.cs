@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Swiss;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class TCPListener : Reflex
     {

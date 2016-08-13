@@ -11,7 +11,7 @@ using System.Xml;
 using WolframAlphaNET;
 using WolframAlphaNET.Objects;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Wolf : Reflex
     {

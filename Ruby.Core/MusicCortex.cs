@@ -12,6 +12,8 @@ namespace Ruby.Internal
     public class MusicCortex
     {
         public string SongCurrent { get; set; }
+        public string ArtistCurrent { get; set; }
+
         public string URI_SongCurrent { get; set; }
 
         public string PlaylistCurrent { get; set; }
@@ -25,6 +27,7 @@ namespace Ruby.Internal
         public void InitializeValues()
         {
             SongCurrent = string.Empty;
+            ArtistCurrent = string.Empty;
             URI_SongCurrent = string.Empty;
 
             PlaylistCurrent = string.Empty;
@@ -34,6 +37,8 @@ namespace Ruby.Internal
         public void UpdateCurrentSong(Track track)
         {
             SongCurrent = track.TrackResource.Name;
+            ArtistCurrent = track.ArtistResource.Name;
+
             URI_SongCurrent = track.TrackResource.Uri;
         }
     }

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Forms;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class FileLocator : Reflex
     {

@@ -11,11 +11,11 @@ using System.Net;
 using System.Windows.Forms;
 using System.Timers;
 using SpotifyAPI.Web;
-using Ruby.Muscle.Music;
+using Ruby.Movements.Music;
 using Swiss;
 using Ruby.Internal;
 
-namespace Ruby.Muscle
+namespace Ruby.Movements
 {
     internal class Spotify : Reflex
     {
@@ -77,15 +77,15 @@ namespace Ruby.Muscle
             Core.Internal.IsConnectedToSpotify = true;
         }
 
-        public override void EstablishRecognizers()
+        public override void GenerateRecognizedPhrases()
         {
             List<string> specs = new List<string>();
             categories.Keys.ToList().ForEach(key => specs.AddRange(key));
 
-            Recognizers = new Dictionary<string, string[]>()
+            RecognizedPhrases = new Dictionary<string, string[]>()
             {
                 { "{} the song", new string[] { "resume", "play", "pause", "stop" } },
-                { "play some || music", specs.ToArray() },
+                { "play some {} music", specs.ToArray() },
             };
         }
 
@@ -123,6 +123,8 @@ namespace Ruby.Muscle
             else if (skippers.Any(str => input.Contains(str)))
             {
                 Local.Next();
+                response = string.Format("Now playing {0} by {1}", Core.Music.SongCurrent, Core.Music.ArtistCurrent);
+                Local.Play();
             }
             else if (stoppers.Any(str => input.Contains(str)))
             {
