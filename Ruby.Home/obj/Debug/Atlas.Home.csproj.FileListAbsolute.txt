@@ -37,7 +37,7 @@ C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Home\bin
 C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Home\bin\Debug\Microsoft.Kinect.dll
 C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Home\bin\Debug\Atlas.Environment.dll
 C:\Users\mschuee\Documents\Visual Studio 2013\Projects\Atlas.Home\Atlas.Home\bin\Debug\Atlas.Environment.pdb
-C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Home\bin\Debug\Atlas.Home.exe.config
-C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Home\obj\Debug\Atlas.Home.exe
-C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Home\obj\Debug\Atlas.Home.pdb
-C:\Users\m7sch\Source\Repos\Ruby.Modules\Ruby.Home\obj\Debug\Atlas.Home.csprojResolveAssemblyReference.cache
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Home\bin\Debug\Atlas.Home.exe.config
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Home\obj\Debug\Atlas.Home.exe
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Home\obj\Debug\Atlas.Home.pdb
+C:\Users\mschuee\Source\Repos\Ruby.Modules\Ruby.Home\obj\Debug\Atlas.Home.csprojResolveAssemblyReference.cache

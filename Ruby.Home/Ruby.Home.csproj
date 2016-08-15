@@ -33,9 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Newtonsoft.Json, Version=8.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Newtonsoft.Json.8.0.2\lib\net45\Newtonsoft.Json.dll</HintPath>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\documents\visual studio 2015\Projects\Ruby.Modules\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="RestSharp, Version=105.2.3.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -65,10 +65,6 @@
     <ProjectReference Include="..\Ruby.Brain\Ruby.Brain.csproj">
       <Project>{7230134f-2fc3-4e7a-8579-13de5063753c}</Project>
       <Name>Ruby.Brain</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\..\..\..\..\Atlas\Atlas.Control\Atlas.Control.csproj">
-      <Project>{f10abbb2-6f43-4dc1-9a97-67c36eebda26}</Project>
-      <Name>Atlas.Control</Name>
     </ProjectReference>
     <ProjectReference Include="..\Ruby.Core\Ruby.Core.csproj">
       <Project>{770475a7-78f7-4935-bb9b-8fd42c5c0112}</Project>
